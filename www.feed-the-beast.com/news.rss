@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>News</title>
+    <link>https://www.feed-the-beast.com/news</link>
+    <description />
+    <category>News</category>
+    <a10:link rel="self" type="application/rss+xml" title="News" length="1000" href="https://www.feed-the-beast.com/news.rss" />
+    <item author="FTB">
+      <guid isPermaLink="false">2993</guid>
+      <link>https://www.feed-the-beast.com/news/2993-august-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>August News</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/August/HQMFront.png" alt=""&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;In conjunction with aaronhowser1, we're proud to announce that we have added HQM quests to the expert modes of Infinity Evolved and Infinity Evolved Skyblock. More than two hundred quests guide you through the intracacies of expert mode from chopping your first tree to crafting the end game creative items.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/August/HQMQuests.png" alt=""&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/August/HQMEnd.png" alt=""&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Aaronhowser1 has issue trackers for any bugs relating to the quests.&amp;nbsp;&lt;a href="https://github.com/aaronhowser1/Infinity-Evolved-Skyblock-HQM/issues" rel="nofollow"&gt;Infinity Evolved&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://github.com/aaronhowser1/Infinity-Evolved-Expert-Mode-HQM/issues" rel="nofollow"&gt;Infinity Evolved Skyblock&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;In 1.12 news, we're continuing to update FTB Unstable. A new flagship pack, and eventually expert mode, is getting closer, but we're not there yet.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;The legacy launcher crash bug on mac for 1.12 packs has been fixed.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/joinTwitch.png" alt=""&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 05 Aug 2017 22:08:06 Z</pubDate>
+      <a10:updated>2017-08-05T22:08:06Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2988</guid>
+      <link>https://www.feed-the-beast.com/news/2988-july-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>July News</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;With the release of Minecraft 1.12, we have yet again released a version of our unstable pack. This pack showcases new mods on the new Minecraft version as well as provides mod authors a platform to get a large amount of playtime for new, untested code.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Unstable is mostly just a tossed together collection of mods, but our lead modpack dev tfox83 has put together a list of the config changes he's added to the pack.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;blockquote class="source-quote"&gt;&lt;div class="quote-content"&gt;&lt;div class="quote-body"&gt;&lt;/div&gt;
+&lt;div&gt;Config changes:&lt;/div&gt;
+&lt;div&gt;aroma1997s dimension: changed DIM id to -2, disable sticky ore, enabled stone top, only day set to false.&lt;/div&gt;
+&lt;div&gt;cofh: Enabled Flat Bedrock; Enabled Vanilla Gen (see ore gen notes for more)&lt;/div&gt;
+&lt;div&gt;biomes o plenty: Disabled all ore gen/rock formation gen/bop mushroom gen/poision ivy and thorns gen/nether hive gen/liquid poison/flax (content overlap with AA flax)&lt;/div&gt;
+&lt;div&gt;biomes o plenty: Disabled Biomes: marsh, alps, wasteland, dead forest, corrupted sands, dead swamp, glacier, snowy coniferous forest, tundra&lt;/div&gt;
+&lt;div&gt;extreme reactors: increase fuel usuage to 8.0; disabled yellorite ore gen (moved needed ore into cofhcore)&lt;/div&gt;
+&lt;div&gt;forestry: disabled all ore gen (moved needed ore into cofhcore); disabled butterflies pollinating leaves due to complaints in 1.10 from players; reduced butterfly spawn limit from 100 to 50&lt;/div&gt;
+&lt;div&gt;soul shards: Decreased amount of mob spawns with all tiers except tier 1 for overall performance increase; disabled spawner absorption due to complaints from server admins; player must be online for mobs to spawn that places the spawner (server performance); decreased spawn cap to 25 to increase performance of large scale mob farms&lt;/div&gt;
+&lt;div&gt;techreborn: Disabled red garnet drops from any mined ruby ore; disabled gem tools/armor; disabled bauxite, iridium, galena, ruby, sapphire, lead, silver, copper, tin, peridot ore gen (moved needed ore into cofhcore) Disabled oil gen (will support TFs oil when needed in the future)&lt;/div&gt;
+&lt;div&gt;Accually Additions: Disabled solidified XP mob drops due to exploit with liquid XP form MGU; moved black quartz world gen into cofhcore.&lt;/div&gt;
+&lt;div&gt;badwithernocookie: Silence Dragon kills&lt;/div&gt;
+&lt;div&gt;chest transporter: only allow diamond transporter to pick up mob spawners&lt;/div&gt;
+&lt;div&gt;embers: disabled all ore gen (moved needed ore into cofhcore)&lt;/div&gt;
+&lt;div&gt;morpheus: decreased sleep perctange to 25%&lt;/div&gt;
+&lt;div&gt;simplevoidworld: changed DIM id to -3&lt;/div&gt;
+&lt;div&gt;in control: blocked passive mobs in mining dim&lt;/div&gt;
+&lt;div&gt;block whitelist: at this time all blocks can be placed into the mining age except torches (testing), but in the future we plan to test quarry use only, etc...&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Ore Gen notes:&lt;/div&gt;
+&lt;div&gt;added emeralds to all biomes, but rare.&lt;/div&gt;
+&lt;div&gt;customized ore gen in mining age using cofhcore to fall below y79 and cleared most surface water/lava&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;There is currently a crash bug if you are using the legacy launcher on a mac and try to launch a 1.12 pack.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Wiki News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;The editathon mentioned in the last news post, the Let's Just Do It Editathon, was a success! Lots of mods got documented, lots of translations were made, and in total thousands of edits were made by the community. We thank everyone who participated for contributing. The winner of the $20 steam gift card was user SirMoogle for his "sufficiently Thaumic" contributions, or his documentation of Thaumcraft 4 and addons.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;The wiki community is currently trying to come to a decision on what to do with the public wiki section on the forums. Input from community members, regardless of whether they have edited the wiki, would be greatly appreciated. You don't even need an account to&amp;nbsp;&lt;a href="https://ftb.gamepedia.com/Feed_The_Beast_Wiki:Centralized_discussion#FTB_forums_wiki_section" rel="nofollow"&gt;provide your thoughts&lt;/a&gt;. And while you're there, there's lots of other important discussions happening and all input is welcome.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/joinTwitch.png" alt=""&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 14 Jul 2017 19:45:20 Z</pubDate>
+      <a10:updated>2017-07-14T19:45:20Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2986</guid>
+      <link>https://www.feed-the-beast.com/news/2986-june-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>June News</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;With the release of Minecraft 1.12, we are moving our main development effort over to the new version. We will be releasing both a new flagship pack and a seperate expert pack. As usual, we can't commit to a timeline, but it's going to be at least a few weeks before enough mods update for us to start development.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;In the meantime, we'll be putting together the latest iteration of our Unstable pack for 1.12. Unstable is a pack we bring back with each new version of Minecraft to showcase up and coming mods as well as help mod authors find bugs in their new code.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Map News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;We recently opened up recruitment for new people to work alongside Slowpoke in creating new maps built with new and existing FTB mod packs. As part of this, we set a challenge for applicants to recreate one of the very first FTB mod packs, updating it to be used with the mod pack that we used for the 1.2.5 pyramid map. The resulting build was so good that we decided to release it to the public.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;In order to facilitate this, we have created a new 1.2.5 mod that will allow you to select which map you want to play. So in the next week or so, we will be releasing an update to the pyramid mod pack. This update leaves the gameplay unchanged, it will include the new map and add new options to the world creation menu to allow you to select which map you wish to play. The new map follows similar gameplay design as the pyramid map, however is designed to be played by anywhere up to 4 players (teams). Once on the map you can select the number of players taking part and the map will adjust automatically.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Work is almost complete on a new FTB map designed to work on more up to date packs. This map is also designed to work with up to 4 players/teams and is the second project that the new map team has worked on alongside some outside help from some of our friends. Whilst there is no current eta for this map, we hope to release it sometime during July.&amp;nbsp; We have also started work on the next speed run map, although it is still too early to give any type of estimate as to when it will be released.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Wiki Editathon&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;The FTB wiki is &lt;a href="" rel="nofollow"&gt;hosting an editathon&lt;/a&gt; starting on June 18th and lasting a full week. The participant who contributes the most will be awarded a $20 steam gift card provided by Xbony2.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Creeperhost Mod&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;We have added a mod that lets users easily create a server hosted by our partners Creeperhost. Here's a statement from Slowpoke on the inclusion of the mod.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;blockquote class="source-quote"&gt;&lt;div class="quote-content"&gt;&lt;div class="quote-body"&gt;When I was approached by Paul from Creeperhost about the inclusion of this mod in the pack I personally had no objections to it as long as it didnt intrude on the gameplay and wasn't overly in peoples faces which I believe is the case here. There may be some issues and if they do crop up we will get them fixed as quickly as we can. As to the financial arrangements with regards to the inclusion of this mod, quite honestly there are none. We are not getting paid a monthly fee by Creeperhost to include this mod in our packs and although referral fees have been offered, as things stand I have no intentions of actually taking them.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Which I am sure leads people onto the question of why include this in the first place. The main answer is loyalty. A large part of the reason that FTB even exists is down to the support we have had along the way from the team at Creeperhost. From the very beginning before we had a launcher and a website and everything else. Creeperhost provided us with pretty much anything we ever asked for when it came to servers. They constantly went out of their way to help us in any way they could. In return we placed a link on our launcher that linked to Creeperhost. This was an arrangement that was beneficial to both of us. The deal with then Curse and now Twitch however didn't end my friendship with Paul or our relationship with Creeperhost, to this day they continue to support us as much as they can. Our new website FTB.world is hosted on a Creeperhost server and a lot of our build and test servers come from them. Having said all this, at some point in the future the FTB launcher is going to be de-branded and our packs removed off of the launcher. At this time the link we have on there will lose any value it had. I have always wanted to make sure that we had something that worked as an alternative to that link on the launcher and this mod seems like a decent solution to this.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;I have always understood that there are plenty of excellent providers of servers out there and we would never force anyone to choose a specific provider, however I have no intentions of ever forgetting where we came from and the help that the Creeperhost team provided us along the way.&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Content Creator&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/June/Amaxter.png" alt=""&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;This month's featured content creator is Amaxter. He semi-regularly uploads interviews with mod authors to his Behind the Mod and Inside the Mod series on &lt;a href="https://www.youtube.com/channel/UC1h2ZtkhWLesWmOCRnaVMZg" rel="nofollow"&gt;his youtube channel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="https://ftb.cursecdn.com/FTB2/static/newsletter/joinTwitch.png" alt=""&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 18 Jun 2017 20:23:27 Z</pubDate>
+      <a10:updated>2017-06-18T20:23:27Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2786</guid>
+      <link>https://www.feed-the-beast.com/news/2786-may-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>May News</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;As mentioned in our &lt;a href="https://forum.feed-the-beast.com/threads/town-hall-transcript.222720/" rel="nofollow"&gt;town hall&lt;/a&gt;, we're working on an expert mode pack, the spiritual successor to Infinity Expert. It will be for Minecraft 1.11. We're still in the early stages, but we're hoping for a July/August release.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Map News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;We &lt;a href="https://forum.feed-the-beast.com/threads/recruiting.224261/" rel="nofollow"&gt;recently opened applications&lt;/a&gt; for people interested in developing and building maps to join the FTB map building team. Interest was extremely high and we have taken on a group of talented builders to help develop future maps.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;As part of the process we had the team develop an updated version of the 1.2.3 multiplayer map (as played by Direwolf20 and Nearbygamer in March 2012). The team developed a new 4 player map using the 1.2.5 insanity pack as a base. After a few small revisions we have decided to release this new map to the public. Whilst we have done our best to remove as many flaws as we can, a few small ones will likely remain and given the age of the pack, bug fixes and support will be minimal. The pack will release sometime this coming week.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Development of an updated version of the pyramid map on Minecraft 1.10 has started and will be followed by a second speed run challenge map. We expect to see these maps out sometime in June/July. Both of these will be built around a custom pack designed with map building in mind. You can follow along with the building of these maps on the &lt;a href="https://www.twitch.tv/officialfeedthebeast" rel="nofollow"&gt;official FTB twitch channel&lt;/a&gt; where parts of the build will be livestreamed.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Wiki Team&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;The wiki team is looking for editors. Head &lt;a href="http://ftb.gamepedia.com/Feed_The_Beast_Wiki:Getting_started" rel="nofollow"&gt;over there&lt;/a&gt; and get started!&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Content Creator&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/reninsane" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/May/reninsane.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;This month's featured content creator is Reninsane. He streams Mon-Fri at 9:30 AM to 5 PM GMT.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://invite.twitch.tv/MariusSandersPhaeren" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/joinUsOnTwitch.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 15 May 2017 15:38:42 Z</pubDate>
+      <a10:updated>2017-05-15T15:38:42Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2736</guid>
+      <link>https://www.feed-the-beast.com/news/2736-april-news-post</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>April News Post</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-skyfactory-challenges" rel="nofollow"&gt;FTB Skyfactory Challenges&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-skyfactory-challenges" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/April/skyfactorychallenge.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Our first full challenge map in 5 years, this pack is based on skyfactory 3, with a prebuilt map and a set of timed challenges. Complete the map by yourself, or in a team of 2, 3 or 4 people, upload a video of your run to YouTube or Twitch and then submit the time with the in game form.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;You can find a leaderboard of all the verified times &lt;a href="https://ftb.world/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/April/skyfactorymap.png" alt=""&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/April/skyfactorysubmit.png" alt=""&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;We are looking for people to help verify the videos of people's runs. Sign up &lt;a href="https://docs.google.com/forms/d/1whCT7lGFyxNLo7-6Xnrsq-_vHUjezklyDoc8EOChhQ0/" rel="nofollow"&gt;here&lt;/a&gt; if you are interested.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-beyond" rel="nofollow"&gt;FTB Beyond&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;We released our major modpack for Minecraft 1.10 earlier this month. You can find more details about it in our &lt;a href="https://forum.feed-the-beast.com/threads/ftb-beyond-release.220305/" rel="nofollow"&gt;earlier post here&lt;/a&gt;. Get it on the Twitch app and the FTB launcher now.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Team Applications&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;In addition to the challenge pack verifiers &lt;a href="https://docs.google.com/forms/d/1whCT7lGFyxNLo7-6Xnrsq-_vHUjezklyDoc8EOChhQ0/" rel="nofollow"&gt;mentioned above&lt;/a&gt;, we have another opportunity.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Fill out &lt;a href="https://docs.google.com/forms/d/1ZMzHh0L3oQLnUMHK8XI8qwyWMNUa231DwnhEteYu2nk/" rel="nofollow"&gt;this form&lt;/a&gt; if you have experience building maps or modpacks and want to help out on future challenge packs.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;If you are a youtuber or streamer and are interested in recording or streaming an episode from the challenge map server along side the developers, fill out &lt;a href="https://docs.google.com/forms/d/1exdh3nC4hAqCvl7Zrm5k0RhZK67h8sdHqbzxBBSC6Xo/" rel="nofollow"&gt;this form&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;We will be opening applications for beta testers in the coming weeks.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;FTB Town Hall&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;On March 15th, we had a town hall on Twitch to talk about changes to FTB Beyond. You can find a transcript of everything we talked about &lt;a href="https://forum.feed-the-beast.com/threads/town-hall-transcript.222720/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Twitch App&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;After &lt;a href="https://forum.feed-the-beast.com/threads/twitch-enters-agreement-to-purchase-curse.165411/" rel="nofollow"&gt;Twitch acquired curse last fall&lt;/a&gt;, they started working on twitchifying the Curse app. The fully re-branded Twitch Desktop App has now been released, with all the same features, plus a few new ones. All the plans we had for the Curse app have transferred over, including their efforts to bring the app to Linux.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Content Creator&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/itslewdicolo" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/April/itslewdicolo.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;This month's featured content creator is ItsLewdicolo. He streams Mon, Tue, Thu-Sat at 11PM EST.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://invite.twitch.tv/MariusSandersPhaeren" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/joinUsOnTwitch.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 03 Apr 2017 23:51:31 Z</pubDate>
+      <a10:updated>2017-04-03T23:51:32Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2733</guid>
+      <link>https://www.feed-the-beast.com/news/2733-town-hall-transcript</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>Town Hall Transcript</title>
+      <description>&lt;p&gt;A few days ago, Slowpoke and TFox from the FTB Team hosted a Townhall meeting over at Twitch, discussing upcoming changes to the FTB Beyond pack as well as Expert Mode. During that meeting they also answered some questions made by the community. You can find more details of all of this meeting at the bottom of this post.&lt;br&gt;&lt;br&gt;&lt;strong&gt;About FTB and Vazkii in general&lt;/strong&gt;&lt;br&gt;&lt;br&gt;We've talked with Vazkii a lot about his mods, yet this comes back again and again. To make it clear: &lt;strong&gt;we do not have any problem with Vazkii's mods whatsoever.&lt;/strong&gt; We actually think them to be excellent. But just because we think either a mod or a mod developer is excellent, doesn't necesarily mean we think it's fit for one pack or another.&lt;br&gt;&lt;br&gt;&lt;strong&gt;About Beyond, community feedback and its next update&lt;/strong&gt;&lt;br&gt;The whole team got together this afternoon prior to this stream and, based on all the feedback we've been getting regarding the pack, we're going to be making some changes [Update: these changes have been implemented in version 1.2.0]&lt;br&gt;&lt;br&gt;&lt;strong&gt;Psi&lt;/strong&gt;&lt;br&gt;Let's talk about this one first, since it's the easiest one to go over. &lt;strong&gt;We're gonna revert the recipe changes, back to the mod's original one, and that will remain like that on normal mode.&lt;/strong&gt; This change will go live on the next public beta (1.2.0), which should release around friday. To be clear, it's not that we think anything has changed, but the argument of ComputerCraft being available like that but not Psi is completely valid (More detail on that down below). That's why we're reverting this completely.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Quark&lt;/strong&gt;&lt;br&gt;Here we're also reverting some, but not all, of our changes. Now, tfox has noted that out of the available config changes that Quarks offers in its config, we'd disabled about 30% of that mod as it stands up until now. We're gonna go through all of those changes individually, and we'll explain our reasoning for why we made that decision at the time, and what are we going to do about it moving forward:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Colored beds being disabled: Reverted.&lt;/strong&gt;&lt;br&gt;Originally, during beta testing there were some issues with Morpheus and with some recipes (only taking the vanilla bed; more details on this down below with chests and others), which came to us from our beta team. Because of that, we just disabled that functionality. We're gonna turn it back on, see if those issues were changed. I'll try to contact vazkii, see if he can add an option for also naming his beds "Bed" (as in the vanilla one), so we can actually still use Morpheus (because what Quark does breaks Morpheus). If the texture issue is fixed, and we can get the name changed, this'll be added back in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The "More Bookshelves" feature being disabled: Staying off due to overlapping.&lt;/strong&gt;&lt;br&gt;There are quite a few recipes where you have to take ball o mosses and click them on the bookshelves, and it would only work with vanilla or Chisel bookshelves. And there was also some overlap there, same texture and same look, so we decided to turn it off. That's something we've always done, if there's duplicate content we take one of them off.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The "varied chests", "varied trapdoors" and some few more being disabled: Reverted.&lt;/strong&gt;&lt;br&gt;We also had some recipe issues here, because these tweaks changed the oreDictionary. And yes, we could go with a script and overwrite the oreDict, but it would cause several issues with many other mods; if other mods don't use the oreDict, it brings some issues. So, what we've decided to do now is to make all of those available, and placing one alone in a crafting grid will allow you to transform it into the vanilla variant, which will work on recipes. We could've used this as a solution two months ago, but at that time it hadn't been brought to our attention how much people would want those specific features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Chest buttons" being disabled: Staying off due to overlapping features.&lt;/strong&gt;&lt;br&gt;We've disabled them due to having Inventory Tweaks, which offers shortcuts for essentially almost the same (sorting being disabled automatically on quark, without us changing anything), and because we prefer the way InvTweaks implements them. So we're not reverting that change, since we're happy with how it works right now.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arms on armor stands: This will be turned back on.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chickens shedding feathers: We're turning this back on (for now)&lt;/strong&gt;&lt;br&gt;We want to make some testing on that, see how this actually performs before taking a final decision.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Convert clay blocks to clay balls": This will remain disabled.&lt;/strong&gt;&lt;br&gt;That's purely a vanilla mechanic that we prefer to leave in, since we're happy with how it works normally. As a personal opinion [from slowpoke, later on in the stream], clay is one of the best things modpack developers can use to balance recipes: this is because it's one of those few things that are limited on how easily you can automate mining of it, which greatly helps towards balancing stuff around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Creepers turn red as they explode": we're leaving that off since it causes issues with resource packs.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Deploy ladders downwards": Will remain off, willing to add a separate mod providing this functionality in a slightly more gated way&lt;/strong&gt;&lt;br&gt;We're leaving that off due to balance concerns, but we'd be glad to add a mod that puts a slightly higher cost per ladder; similar to what OpenBlock's rope ladder did on 1.7, requiring string: it's a little gate on day one, because you have to go kill some spiders or finding some string in the world, compared to just breaking a few logs for having such an assistance in stuff like exploring ravines and similar deep places with ease. Quark's recipe felt a little bit too easy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Enderman teleporting you to them when you're on a 2-high block gap": We're leaving that disabled.&lt;/strong&gt;&lt;br&gt;It's a balance change, everybody in the team is happy with leaving that as it is currently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Glass Shards": This will be turned back on.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Greener Grass" currently disabled: We'll leave this off, since it causes issues to resource packs.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Sheeps having armor while wearing wool" currently disabled: Will be kept like that.&lt;/strong&gt;&lt;br&gt;This will remain disabled, everybody on the team agrees in that being a balance change.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Stair crafting": We're ok with enabling it, won't do it yet though due to a dupe bug with Thermal Expansion we cannot currently solve.&lt;/strong&gt;&lt;br&gt;Ok, this will differ from the actual recording. We did say we were readding them, but since Thermal Expansion's Sawmill has a recipe for "1 wooden stair -&amp;gt; 1 wood block", which can lead to a dupe bug (6 wooden block -&amp;gt; 8 stairs -&amp;gt; 8 wooden blocks, repeat). We might reconsider it if KingLemming adds some nerf for the machine when TE and Quark with that feature enabled are together.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Better Vanilla Textures" being disabled: Will remain turned off, but you can tweak it on your client with no problem.&lt;/strong&gt;&lt;br&gt;Nope, it will remain as it is. If you want it, you can turn it on (it's a client side config, so you shouldn't have issues with servers!).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Panorama Maker" being disabled: Will be kept turned off.&lt;/strong&gt;&lt;br&gt;It will remain disabled, mostly due to it not being usable with Custom Main Menu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Sitting on stairs" being disabled: Will be kept turned off.&lt;/strong&gt;&lt;br&gt;This will remain disabled, since it seems really buggy for us (we've watched many cases of players suffocating due to it, misclicking on them, etc.). Simply something we're not interested in having.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Blazes naturally spawning in the nether" and "Guardians naturally spawning in oceans" being disabled: We'll keep those off, due to balance concerns we have.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Generate clay blocks underground like dirt is" being disabled: That'll remain disabled due to my [slow's] call. I don't really like that concept.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Biotite ore" being disabled: We're re-enabling it, but it won't generate.&lt;/strong&gt;&lt;br&gt;Recipes have been adapted due to this: You can get a Block of Biotite from burning a Quartz Block. Then, that block can be crafted back into Ender Biotite, which now is used on some Quark stuff (weather sensor, making biotite blocks again, and converting cobblestone into basalt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Basalt generation" being disabled: Only generation was disabled, the block is still there.&lt;/strong&gt;&lt;br&gt;You should be able to obtain it by using a Chisel on other variations, and also with biotite and cobblestone since that's enabled now. We use Chisel's basalt on worldgen because we like how it generates around lava lakes, that's it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Pirate Ships" being disabled: We're bringing them back, but we're making them rarer.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;strong&gt;Actually Additions&lt;/strong&gt;&lt;br&gt;Black Quartz will remain as an element craftable with nether quartz and coal. There are many reasons we had for taking this decision, but the main one would be this one: &lt;strong&gt;we consider the ore is not needed for the progression.&lt;/strong&gt;&lt;br&gt;It may make sense on a vanilla instance with only AA, but on a modpack with a lot of more content, it's way easier to just go to the nether and gather some Nether Quartz; you only need 3 diamonds (&lt;a href="https://redd.it/5yj9fg" rel="nofollow"&gt;arguably, not even that&lt;/a&gt;). You don't even need flight for obtaining the ore!&lt;br&gt;You may hate it, but ultimately it's not like this is the only thing that you have to go to the nether for. There's plenty more stuff needed in there: Blaze Rods (you currently cannot obtain blaze powder from deserts like on 1.7, since Thaumcraft is not available yet), some TechReborn ores, Cobalt and Ardite from Tinkers, wither skeleton drops, and Nether Quartz itself, amongst others.&lt;br&gt;&lt;strong&gt;Also, we didn't want the ore to be present for expert mode.&lt;/strong&gt;&lt;br&gt;Regarding the mod's village chests being empty, we're not sure about what happened there; we need to make some testing, since we were never reported on that before... [Note: &lt;a href="https://www.reddit.com/r/feedthebeast/comments/5zg7ua/ftb_beyond_townhall/deyrgvb/?context=3" rel="nofollow"&gt;Ellpeck replied about it&lt;/a&gt;]&lt;br&gt;&lt;br&gt;&lt;strong&gt;RFTools Dimensions&lt;/strong&gt;&lt;br&gt;The thing about RFTools Dimensions is that the way it's implemented is great, specially compared to the 1.7 iteration of it. It's pretty good, player now has the ability to delete his created dimensions, you can limit how much they can have created at the same time... It's really great for servers. The only big issue we have with it right now is Expert Mode. This is one of the differences between making Beyond and making Infinity: when we were making Infinity, we didn't have a clue that Expert Mode would eventually be a thing. We know that now, it's gonna be a thing; so we can look ahead a little bit, and make a few adjustments to the normal version of the pack. And we could, of course, throw in the mod and completely disable it for Expert Mode; that's an option as well. But there's a couple of stuff regarding Expert Mode that we will discuss below in this post, and that may allow us to include Dimensions into Beyond currently.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Dark Utilities&lt;/strong&gt;&lt;br&gt;Both the Portal charm and Sleep Charm being disabled was an oversight on my [tfox's] part; we had some issues on early testing where people would get stuck in vanilla beds, and we tried disabling that amongst other stuff as an attempt for solving it. In the end, it didn't fix that issue, and it was never re-enabled. We'll fix this in the next update.&lt;br&gt;If there's one thing this community's great at it is picking up on the stuff that we missed out, and we can take that advice (and in so, fix it). Now, related to the bug, there's Bed Bugs... we're actually planning on testing that mod; it probably won't make it next update, but the one after that most likely will. It's on our list.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Thermal Dynamics&lt;/strong&gt;&lt;br&gt;TD will be added to the pack; and that won't be too far away in time. Once we get it, and we can test it, it will get added to the pack.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Akashic Tome&lt;/strong&gt;&lt;br&gt;As a note, we saw some people suggesting this small mod on reddit, that collects all instruction manuals and guides from mods in one item, and we're adding that to the pack.&lt;br&gt;&lt;br&gt;&lt;strong&gt;About our plans for Expert Mode&lt;/strong&gt;&lt;br&gt;We already have planned when it's getting to the beta testers, when it's getting into FTB One, and when it's getting released for the public. We cannot really commit on this since it's not entirely dependant on us only, but also on the mods themselves. What most people reading this is interested about is the public release, which we're hoping to release around mid-June. We know last time it took quite a bit more than 3 months, but now we do have more people involved on it; and so it's coming together a bit faster.&lt;br&gt;This leads to one of the bigger parts regarding this: We want to leave it clear, this is not necessarily going to happen, but it's what we want to happen. And it's dependant on certain stuff beyond our control. But we're legitimately talking about not releasing Expert Mode at all for 1.10.2; tfox is very keen to see if we can release it on 1.11.2, since there are quite a few advantages to it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: The main thing with this is, I do want to keep normal and expert modes as one. But if we commit to release expert on 1.11.2, we may have to lose a little bit of content compared to what we do have right now. We have a few different options: one of them being splitting the modes into two separate packs. That opens up a lot of possibilities for us: for example, changing more configs that would, as of right now, change the way normal mode is played (which we do not want to). However, this would mean losing something we introduced to the modded scene: the ability to switch between one type or the other without having to restart the game entirely. So, now we're wondering whether we want to keep that, or just go and make a separate pack for Expert Mode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Best case scenario would be being able to port Beyond entirely as it is now to 1.11, and making expert from there. But we cannot really guarantee that, nor world stability going from one version to the other.&lt;br&gt;&lt;br&gt;&lt;strong&gt;On Power Generation&lt;/strong&gt;&lt;br&gt;We're in the middle of an analysis around power generation right now, and we'll be using that to make certain tuning changes when it comes to all the different power generations for Expert Mode. What we intend is that if you, for example, have 5 different generators that all burn a single piece of coal each, and all of them have the same cost for building the actual generator (which currently happens, with no need of much tweaking recipes), then each one will produce different amount of total energy at a different rate: One may produce way more power than the rest overall, but at a much slower rate, and on the other side of the spectrum you'll have one that generates power really quickly, yet being considerably inefficient at it. Then you'll have the choice on what fits better on your current scenario regarding materials, resources, etc. We still need to check how much we can change around towards achieving this, but that would mostly be the idea we have.&lt;br&gt;&lt;br&gt;&lt;strong&gt;A little note regarding Actually Additions and Expert Mode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: Actually, let me tell you this when it comes to Actually Additions. If you like AA the way it is, be prepared to get very upset; because I'm about to bust that mod completely for expert mode. So don't expect to be getting the type of power you currently get out of that mod when it comes to expert mode because you won't be getting it. Sorry, I'm breaking that mod completely. It's way outkilled almost everything else at that level as it stands right now.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;(As a note, it's not really that we'll be "busting it". We're bringing it into balance with all other mods. We can give you an example: right now, in AA you can take a piece of coal, which in most generators gives 20-25kRF, and burn iton their own generator for around 80kRF; that's the stuff where it's not balanced in any way, and we intend on bringing that into line)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Some questions we answered to, from reddit and twitter:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;From /u/Mikedevil: &lt;em&gt;What is the design scope that lead you to make such changes in a certain handful of mods? For example, a few months ago you clarified that you don't want to make huge changes to configurations to let the player experience mods the way mod developers intended them to be (at least in non-expert mode). Now, some time later, you release a kitchen-sink pack more customized than ever. How come you claim that such design choices were made in the name of "balance" and "breaking the vanilla feel"?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: In Beyond, most of the changes made were related to config files. And that was done with the intent of making mods work together better, and incorporating a little bit more of a "balance" as we saw fit, in what we could do through configs. We didn't really go changing recipes like we would in, for example, expert mode. We did do a lot of scripting for Ore Unification and fixing issues. But the "balance changes" that we did were very small. For example, there's the Builder Block from RFTools. It's a fairly cheap block, and also a very powerful block. So we went in and changed the amount of RF that it takes for it to run as a Quarry: simply augmenting how much energy it uses; the same thing we did with the Ranged Pumps, which by default doesn't require power at all. There were a few changes of the sort, and if we did them it was because the mod developer allowed it on its configs. If they didn't want modpack developers to adjust those settings, they wouldn't offer a config for it. At least that's the way that we looked at it. And Slowpoke gave me the OK on this, unlike how Infinity 1.7 was handled (where we tried to keep everything as default as possible).&lt;/li&gt;
+&lt;li&gt;Slowpoke: I think the important part here is: as we moved into Beyond, both me and tfox agreed in that one of the main focus of every flagship FTB pack for each version so far has always been to stay as true as possible to what the mod developers intended their content to be, and how up until now we've done that. But we also discussed if maybe it was time to see if we could start to bring a little bit of extra balance on top of "just picking out a few mods". It may work, it may not. We won't know until we try it. But we certainly cannot just keep doing the same thing over and over again. We do have to try new ideas, experiment a little. And if it ends up not working, we can always come back to the usual "no configs" style on the next version, be it 1.11 or 1.12; as a note.&lt;/li&gt;
+&lt;li&gt;Tfox: Also, we're taking everybody's feedback. For example, the next update of Beyond, 1.2.0 (which should go beta in a few days) will mostly have changes that we decided to make based on the reaction of the players.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;em&gt;If a player wants to not feel alienated by non-vanilla features, he doesn't play with mods. We're talking about a series of modpacks that in the past completely changed core mechanics, the way the world is generated, etc. I find it hard to believe that a few different coloured beds would confuse players more. Or that [Black Quartz,] an ore that is important in the early game of Actually Additions is disabled but for some reason, yet the [Electrotine, Ruby, Sapphire, Peridot] ore spam from ProjectRed remains? It almost seems like you went through the configs of some mods and blindfolded started ticking off features.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TFox: I'll start with the biggest thing, world generation. We decided to go with vanilla worldgen because, based on our previous experiences, it's very risky to use a biomes-adding mod. It makes it hard for all the mods to work properly together, and we decided to eliminate that risk with this pack; this being because we knew this was gonna be a widely played pack, and having already had some issues with Biomes O' Plenty in the past, which remain present in 1.10, slow and I both agreed that it was way too risky to use it. We won't stop you from using it, but keep in mind that you won't receive support from us if using it. The oregen from ProjectRed is actually very useful, not only on armor and tools/weapons but heavily on TechReborn by default (and we do plan on making use of these gems and Electrotine in Expert Mode). [Here was the explanation on AA and Black Quartz we wrote above on this same post.]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;em&gt;I find it hypocritical to talk about balance in a pack that has such mods as Big Reactors and Draconic Evolution. The number one point people made about Infinity was how unbalanced it was, and then you say your number one concern is balance. My question is: how do you come to such convoluted conclusions all the time? Why do you consider a mod that offers "/gamemode 1" functionality at the cost of power to be less advanced than a magic mod that, if you don't want to spend time and learn about, is useless to you?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: Okay, I'll let tfox to talk about this as well; but I want to put my personal opinion as well, because while designing this pack this was something reasonably important to me. So, first of all let's talk about this idea about Draconic Evolution (I presume you refer to this mod) giving creative-like functionality and being left as it is, yet something like Psi being gated behind Dragon Eggs. Now, I understand what I'm about to say is hypocritical, but: when it comes to mods like Psi and ComputerCraft/OpenComputers, in my opinion these are mods that caters to a very small percentage of our player base (in the case of ComputerCraft it's a bit bigger than that, since you can get pastebins and bring over other people's programs, and use them within the game; but in the end I'd dare to estimate that at most a 2% of our players understands Lua). Having said that, we get that some people like those mods, and that's fine; but when making decisions about what mods to put in our packs, we need to cater to a very very large audience. When it comes to FTB Beyond, our goal is to make this pack accesible to as many people as we can, because it's designed for people playing it together. So yes, we do cater to these larger audiences. This leads to the inevitable question: if that's the case, then why is ComputerCraft (or OpenComputers, in this case) available at such an early stage in the game, but Psi isn't? And I've said this before, and I'll say it again: the reasoning behind that is because CC was there at the beggining of FTB, when we started it off. It was used then, and it's used now, and to come along now and gate it after so long is something that maybe we should do, but we just haven't done at this point in time (specially having this situation now with Psi). So, we can go with one of many different ways: we can leave CC in the "easy section", we can go the way of gating them both behind "hard difficulty"... There are many different paths we can take, and when making this pack the one we chose was gating Psi. But that doesn't mean we don't listen to the people. We'll go more into that later.&lt;/li&gt;
+&lt;li&gt;Tfox: Ok, wanna say I do understand the point on Big Reactors. I mean, modded minecraft is OP to begin with; anything is as OP as you make it. And the plan with this pack is to cater to as large of a playerbase as possible: that way if you want go tech, but your friend prefers to try magic, you guys can all play together. That is the whole idea of this pack. A mod like Extreme Reactors, which replaced Big Reactors, ca be very over powerful, but so can every mod; and it comes to a point where in normal mode, which is what is available right now, it is up to the player to be able to control those mods to an extent: if you want to jump right into it, make a 20x20x6 reactor and generate like 6 millions RF/t out of it, that's kind of your choice. We do gate it a little bit with a few config changes, but we don't heavily gate the progression of that mod. The things that we do tend to gate a bit more is tools and stuff like that, that are extremely powerful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From /u/Masterreader747: &lt;em&gt;Does platinum and iridium ores spawn? They seem to spawn at y lvl 50 ish according to JER...&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: Ok, so I did something special with CoFHCore when it was still in early alpha, and I decided to make meteors out of obsidian; and they're very very rare (they're more rare in the overworld than in the mining age, as a little hint!). But those spawn between the Y levels 40 and 60, and they'll contain a few small amounts of each ore. That's why they show up on JER.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From /u/Arugur: &lt;em&gt;Was the exclusion of Malisis Doors a compatibility issue or a choice? Since Carpenter's Blocks hasn't updated to 1.10, there's no other option for making fancy doors, or doors that blend into the wall. It's cramping my style.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: It does a lot of hacky things to doors and gates. Apparently, as I've been told, there's a way that you can disable that. Last time I tested it there wasn't any, and it messed with a lot of things; specially with Forestry doors and ones from other mods. I'm sure the mod itself works great on vanilla alone, but the problem is that it's not designed to work with any other mod that adds a door or a gate. We had a lot of issues, so it felt safer to leave it out. However, I've added it to my "recheck" list. And while I cannot promise anything, if we can confirm we can disable that part of it and offer the handful of extra doors, I agree in that it does some really neat stuff; it'd be a good fit for a pack like Beyond. Maybe we'll see it on an update soon.&lt;/li&gt;
+&lt;li&gt;Slowpoke: If the rendering issues are solved, that is...&lt;/li&gt;
+&lt;li&gt;Tfox: Oh, yeah! Definitely, there are also the rendering issues. Like some people just put on chat, it's a render shitshow. If that's still the case, then most certainly it won't be included.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From /u/h5h77: &lt;em&gt;I've been having a great time playing FTB beyond, but I really don't get why there's no BoP or equivalent mods. Vanilla generation is still an option for people who want to play vanilla, even with BoP... So an explanation of the reasoning behind that, and if we can expect it to change in the future would be great. Great modpack otherwise so far though.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: We started testing with Biomes O' Plenty while developing the pack; I personally like the mod, the fact that it changes things quite a bit. But one of the biggest issues we had is that we couldn't disable its own ore generation. We tried and tried, changed JSONs yet it kept reverting; even contacted the mod developer, and his reply was "Oh, didn't thought about modpack developers when making that, and it's not gonna be changed". So I said "okay then, simple enough!"; not being able to change these configs breaks our whole idea for oregen. Besides that, if we were to remove it after release, there was this problem with biomes IDs potentially changed after it, which uglified older worlds. So we felt it was safer to just not include it.&lt;/li&gt;
+&lt;li&gt;Slowpoke: Also, it was the only one available back then. If we could find an actual terrain mod that is stable (that's the main thing), works correctly and doesn't make it so you could potentially spend hours and hours looking around for the one biome you want; then we're not opossed to use them in the future. But so far I've not seen a biome mod that doesn't have at least one major issue when it comes to running on servers.&lt;/li&gt;
+&lt;li&gt;Tfox: I'm going to say the closest I've ever gotten to that was with ExtraBiomesXL; they implemented it really well, they didn't hack a lot of things, it didn't add ores and a whole bunch of other stuff... It was more simple, and it added some nice biomes that kind of fit well with vanilla biomes. But unfortunately that's no longer being mantained, so it's no longer an option for us. And honestly, even if we wanted to add something, we can't right now.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;One thing we'd like to address is that people some times forget the point we decide to release Beyond is not the time we decide which mods go in it; that is something we already determined 6 weeks earlier, we can't just test for a week like a bunch of other people. We have to be prepared for a huge amount of people using all these mods, and for them to be very stable. And people has been talking recently about this idea that FTB's number one priority when making a pack is balance. And it is not, we can assure you that above everything else, what we most aspire to is server stability. Certain pack makers have different priorities, access to different packs of resources, and differents standards when it comes down to making their packs. And it's as simple as that: not saying we have the best standards, but we do have our standards. We don't know whether they're higher or lower than other's, because we don't come around measuring them. We do know which ones we've set for in this pack. So far, one of the things we've received almost no reports about is performance, which is great. Granted, you do need at least 4 gigs of RAM, but there's nothing we can do about that; once you pass that, you'll notice it doesn't consume much more than that. Servers don't even need that much: they can run with 2.5-3 GB in theory, although we still recommend at least 4 GB on there as well if possible. And, as a personal opinion [tfox], memory is cheaper than processing power. I'd rather have Minecraft use a little bit more RAM and not as much CPU. It's one big flop from 1.7 to 1.10, and it's been made performance considerably better.&lt;br&gt;&lt;br&gt;Question by /u/Saereth: &lt;em&gt;From a design standpoint, does FTB feel it was worth the trade of worldgen performance in exchange for a completely lacking, near vanilla exploration experience in the pack?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: Absolutely yes. Without a doubt, and this is my personal opinion on it: When I've seen the vast majority of people playing FTB packs on YouTube, Twitch, and anywhere else, they don't explore beyond what they absolutely have to. They'll have one base, which is huge, and they'll build there; they'll explore only as far as they have to, and once they've got what they need that's it. I'm not saying people don't explore, or that none play that way. I'm just saying this is what the majority of the people do. So, when it comes to Performance vs Exploration, I'd much rather have my server stable than vastly explorable.&lt;/li&gt;
+&lt;li&gt;Tfox: On the topic of dimensions mods, and where are they: This is one of the main themes tfox and I have had many, many conversations about. Specially player-created dimensions. Now, RFTools has solved the problem, but this is more of a general statement: in an FTB pack, you'll never see again the ability for a player to create a dimension, unless that player also has the ability to delete that dimension. We don't ever want to see a server again where the owner goes into his world folder, and has 600 dimensions that are completely abandoned, forgotten, and only take disk space and machine resources to mantain. As for Beyond itself, only stuff included is:
+&lt;ul&gt;
+&lt;li&gt;Thanks to modmuss, we have a mod that creates void worlds, fills for those players who used RFTools/Mystcraft only for making their bases on one of those.&lt;/li&gt;
+&lt;li&gt;Same with Aroma1997's Dimensional World, adding a mining dimension for those who only look for that.&lt;/li&gt;
+&lt;li&gt;Extra Utilities adds the deep dark, which with its latest updates makes even more sense to keep (specially since it's required for some end-game content in ExU2), and the Quarry Dimension, which is not even accessible (only used with the Quantum Quarry, no player interaction needed)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Slowpoke: On Aroma's Dimension mod, I wanna clarify that I requested for the stone layer on top. I didn't expect it not to stop animal spawning at all, that was the goal with that... We'll try to contact Aroma about, see what can be done.&lt;/li&gt;
+&lt;li&gt;Tfox: Also on a note on this, we considered some options, but most likely there won't be a mining dimension for Expert Mode: only quarry method enabled will be the Quantum Quarry (and possibly the Void Ore Miner).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;em&gt;Is the the lack of biome, generation or decorative additions to the exploration of the pack to be a future trend for flagship ftb packs?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Both: I wouldn't necessarily say we can say that. I mean, every time we go to a new version things change, and we may reconsider it. We can't really predict this, we design and make the flagship pack differently every single time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;Also from /u/h5h77: &lt;em&gt;What I don't get is that even actually additions and railcraft village chests seem to have been deactivated. Like, the structures still spawn but the chests are empty. Why? Or is this a bug?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: [Reply about AA's is above, on the section about changes to Beyond], but the Railcraft chests are just not implemented yet. The 1.10 version of the mod is still a work in progress, but it added quite a bit of world gen that I wanted to get in. Also, there's a lot of content on the mod itself already, just some of the machinery is not implemented yet (but it will be over time).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From InfamousSlytale: &lt;em&gt;Why did you include both Applied Energistics 2 and Refined Storage on the pack?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: The reason was a lot of people wanted both. And this being our flagship pack, we wanted to give options. But another big reasoning is that I have a lot of significant plans for them both on Expert Mode, and I didn't want to add one or the other later on. This answer may make a bit less sense after reading what we have to announce regarding Expert Mode, but it did when we conceived the pack 2 months ago.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;strong&gt;Some Questions from Twitter:&lt;/strong&gt;&lt;br&gt;From someone named &lt;a href="https://forum.feed-the-beast.com/members/63/" rel="nofollow"&gt;@pahimar&lt;/a&gt;: &lt;em&gt;When will EE3 be done?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: No clue, you may wanna ask the mod developer. Probably around the same time as XyCraft most likely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From &lt;a href="https://forum.feed-the-beast.com/members/314664/" rel="nofollow"&gt;@Cylek&lt;/a&gt;: &lt;em&gt;ETA of expert mode?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: We're actually doing something we don't usually do! We'll be giving an approximate ETA (not an actual one, but we have a plan around that). This is not a joke, we'll go more over that later down in the post.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @OneChipBob: &lt;em&gt;So will Roots and Embers be getting updates for their 1.10 versions?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: We don't know. It's up to the developer, you should ask him. [Update: &lt;a href="https://twitter.com/elucentmods/status/842048583696281601" rel="nofollow"&gt;it's not&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From chat during the stream: &lt;em&gt;Will there be quests on Beyond at some point in time?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: We're not currently planning on adding quests to expert mode. We may have some structure planned for adding, but it won't necessarily be a "give this, get that" kind of thing. We'll have something in place, we just haven't got all the details polished yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @akaZahro: &lt;em&gt;Plans for a Skyblock? &lt;img src="https://forum.feed-the-beast.com/styles/default/xenforo/clear.png" alt=";)"&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: I'm looking at doing skyblock again. The one thing most requested last time was "why was there no expert mode". Simple answer at that time was "it's a whole separate pack". For this time, however, in "FTB: Skyblock", we want to offer it both in normal and expert mode. It's in my plans, I have no idea when. But it will happen in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From &lt;a href="https://forum.feed-the-beast.com/members/35338/" rel="nofollow"&gt;@Vazkii&lt;/a&gt;: &lt;em&gt;What is the download velocity of an unladen modpack?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: I don't think that can be measured with equipment that's available on the market today. Nothing is that sensitive, as far as I'm aware. If somebody does find something that can do it, please let me know (cos I'd like to know that myself).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @AndrooSmithy: &lt;em&gt;What do you consider a "Gate" in this pack? ex: Obsidian is needed to access the Nether, Endereyes to the end access, dragonegg&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: That's a good question. When it comes to expert mode, we have some stuff being developed for helping with that, which we cannot cover just yet. Let's just say it'll mostly avoid us having to gate mod A behind mod B, as we had to do on 1.7 expert. We'll give more info once we can!&lt;/li&gt;
+&lt;li&gt;Slowpoke: I think this is something we can say: Expect the death of the 9x9 crafting grid, we're not going through that road again. Doesn't mean we won't offer stuff like creative items, but we'll make the progression a bit more immersive. We have some pretty cool ideas for that, which are in progress and you'll learn about eventually.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;Also from @AndrooSmithy: &lt;em&gt;With the elimination of the Hardcore version, what other planned adjustments are planned for the pack?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: As we've mentioned here, we're looking into other smaller mods for adding some certain functionality to Beyond. And even big mods that get released, and we consider might be a good fit, may be incorporated eventually.&lt;/li&gt;
+&lt;li&gt;TFox: Exactly. Beyond is an evolving pack for sure, even the normal mod. It's not done, that's for sure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @WelsknightPlays: &lt;em&gt;Any reason that Not Enough Wands isn't in Beyond?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: There were quite a few issues while testing the mod. I know that Direwolf20 has had problems with the mod in his pack, so that was a red flag for me not to add it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @Gorden121: &lt;em&gt;If you disable hostile mobs in the mining dimension, can you enable it in the void world?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: Probably not gonna remove them from the mining dimension, only removing the passive ones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;em&gt;From @AquaBuzzardHR: Why don't you look at some more building mods, like Earthworks or ExtraBlocks? Adding new blocks should be perfectly stable.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke: I love those mods. They didn't really fit on what we wanted to do on this pack though, that'd simply be it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @Unrealdinner: &lt;em&gt;Why do we have no Fast Leave Decay in the pack?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tfox: I know Lumien was in here earlier, and we did test with his and the other option available. And while in my main PC there were no issues, being a pretty powerful machine, on my older 5-years laptop it is pretty laggy when the leaves are decaying; and for that little change to the game, it's not worth sacrificing performance.&lt;/li&gt;
+&lt;li&gt;Slowpoke: Besides that, it also takes back functionality other mods in the pack add. Similar to what happened with Treecapitator in the past.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;From @GearGamer24: &lt;em&gt;Will you develop a harder mode for Beyond Skyblock, similar to Project Ozone 2?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slowpoke (reading that as anything beyond the Skyblock pack, not the "Beyond Skyblock" pack): Well, I can't talk about what's gonna happen besides the skyblock expert mode, that's as far as we got on that planned for now.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;br&gt;You can watch the entire presentation over at &lt;a href="https://www.twitch.tv/videos/129115341" rel="nofollow"&gt;https://www.twitch.tv/videos/129115341&lt;/a&gt;&lt;br&gt;&lt;br&gt;Credit to &lt;a href="https://forum.feed-the-beast.com/members/120865/" rel="nofollow"&gt;@starg09&lt;/a&gt; for his work on the transcript&lt;/em&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 22 Mar 2017 20:02:42 Z</pubDate>
+      <a10:updated>2017-03-22T20:02:42Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2731</guid>
+      <link>https://www.feed-the-beast.com/news/2731-march-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>March News</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;Unfortunately we missed our internal deadline of getting FTB Beyond out this month. But we're close and currently projecting a release for sometime next week.&lt;/div&gt;
+&lt;div&gt;The NVIDIA bug we posted about last month has been fixed in the latest recommended driver, so you can safely update if prompted to.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Content Creator&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;We mentioned back in January that we had received a lot of applications to join the FTB One community. We've finished processing them all and have invited the following content creators. Take a look and give them a follow!&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/channel/UCBJM7Ak2jHNZSFaR7ZjnHcw" rel="nofollow"&gt;CaioCesarkawaii&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/user/ActinaGamer" rel="nofollow"&gt;Actina_Gamer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/pplushy" rel="nofollow"&gt;PPlushy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/sinfuldeity" rel="nofollow"&gt;Sinfuldeity_&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/channel/UCXlmscx-lvXamzS2j6N8xgw" rel="nofollow"&gt;JaRyCu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/c/escomolon" rel="nofollow"&gt;Escomolon&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/channel/UCiyRMoCwShpMlOmX_7RwY8A" rel="nofollow"&gt;stompthebean&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/c/jasonsdedication" rel="nofollow"&gt;JasonMcRay&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/user/TheNodop" rel="nofollow"&gt;TheNodop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/c/krakaen" rel="nofollow"&gt;krakaen&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/channel/UCZsgqOMsaQqHaci5P0EHCZg" rel="nofollow"&gt;FunshineX&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/slothmonster" rel="nofollow"&gt;slothmonster&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/captainbritian" rel="nofollow"&gt;captainbritain&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/reninsane" rel="nofollow"&gt;reninsane&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/c/ectorvynk" rel="nofollow"&gt;ectorvynk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/c/mischiefofmice" rel="nofollow"&gt;MischiefofMice1&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/loneztar" rel="nofollow"&gt;loneztar&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/mhykol" rel="nofollow"&gt;Mhykol&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/zulisse1996" rel="nofollow"&gt;ulisse96&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/channel/UCaz4uaaoMJqjHWUqLYclSTA" rel="nofollow"&gt;GWSheridan&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/user/thejims" rel="nofollow"&gt;thejimsLP&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/1chick" rel="nofollow"&gt;TheDrakma and 1chick&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://curse.com/invite/qeyhP75FYEWkihyI1hgXUQ" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/joinUsOnCurse.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 04 Mar 2017 03:03:04 Z</pubDate>
+      <a10:updated>2017-03-04T03:03:04Z</a10:updated>
+    </item>
+    <item image="https://media-elerium.cursecdn.com/avatars/90/408/636238984703660173.jpeg" author="MrFlamegoat">
+      <guid isPermaLink="false">2718</guid>
+      <link>https://www.feed-the-beast.com/news/2718-curse-and-twitch-are-joining-forces</link>
+      <a10:author>
+        <a10:name>MrFlamegoat</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/MrFlamegoat</a10:uri>
+      </a10:author>
+      <title>Curse and Twitch are joining forces!</title>
+      <description>&lt;p&gt;&lt;span style="font-weight:400"&gt;Hello Authors!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Today we&amp;rsquo;re happy to announce the ability to merge your Twitch account with Curse! As many of you know, and some of you don&amp;rsquo;t know, Curse was acquired by Twitch in late August of 2016.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Since then we have been working diligently behind the scenes to integrate Twitch services and offerings into our ecosystem, as well as ours into theirs. This is the next step in that process.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Unifying the login process is the first step in allowing us to offload much of the development load back to home base and move our resources more to just working on the individual experiences of each community.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;In addition to this, it means that there is now a much narrower entry point helping to prevent spambot creation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Okay, fluff is out of the way. Let&amp;rsquo;s get down to business!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s happening to my CurseForge account?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Nothing! This only changes how you authenticate with our services. We&amp;rsquo;re just adding the ability for you to login with your Twitch credentials! That&amp;rsquo;s it.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;A few things to note:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Your CurseForge display name will stay the same if you choose&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;You will not lose any of your forum posts, site activity, or account information&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Merging accounts is completely optional for now&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;This brings in the much requested ability to enable 2FA. You can merge your accounts and enable 2FA on your Twitch profile page.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Merged accounts gain&amp;nbsp;access to premium addon features inside Curse App&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Once you&amp;rsquo;ve merged your accounts, you will from that point forward log into CurseForge with your Twitch credentials.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Although merging is currently optional, this will change in the future as we move to simplify and secure the authentication process.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cool. Now HOW do I merge my account?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;That&amp;rsquo;s the easy part! The next time you go to login, you will have the option to either login with your Curse credentials, or your Twitch account. You can easily create a Twitch account if you do not have one currently. After creating/logging in with Twitch and authorizing Curse access to your Twitch account, you will be asked to enter your Curse credentials.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Poof! Connected. From this point forward, you should login in to CurseForge with your Twitch account. It&amp;rsquo;s that simple.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-weight:400"&gt;During this process, you may be given the option to update your Display Name. Please note that this does not affect your username, which will become your Twitch username, but only affects the name people see which works the same as it always has.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ew! Twitch?! What is that, I don&amp;rsquo;t like it, I don&amp;rsquo;t watch live streams, etc etc etc!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;No worries! It&amp;rsquo;s optional for the time being. Furthermore, once you create your Twitch account, you aren&amp;rsquo;t required to go there unless you want to. (Editor&amp;rsquo;s Note: As a streamer, I&amp;rsquo;m biased. I personally love the place).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;This move&amp;rsquo;s primary goal is to consolidate our resources into a central location. We have hundreds of thousands of users coming in and out of CurseForge, and not utilizing the resources available to us would be silly.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Help! Something has gone horribly, terribly wrong!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Got Twitter? &lt;strong&gt;@CurseForge&lt;/strong&gt; - we&amp;rsquo;ll be watching it around the clock.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Got E-Mail? &lt;strong&gt;cfmoderation[at]curse.com&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Got Internet? &lt;strong&gt;&lt;a href="https://support.curse.com/" rel="nofollow" target="_blank"&gt;https://support.curse.com&lt;/a&gt;&lt;/strong&gt; - submit a ticket, this goes to the whole team!&lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 28 Feb 2017 23:47:58 Z</pubDate>
+      <a10:updated>2017-02-28T23:47:58Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2713</guid>
+      <link>https://www.feed-the-beast.com/news/2713-february-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>February News</title>
+      <description>&lt;div&gt;Short news post this month.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;We're getting close to a release of FTB Beyond. There are a few mods that are being finished, but we're hoping to have it out this month.&lt;/div&gt;
+&lt;div&gt;NVIDIA's latest driver release, version 378.49, causes crashes with modded minecraft. Either avoid updating to this version or install &lt;a href="http://nvidia.custhelp.com/app/answers/detail/a_id/4378/" rel="nofollow"&gt;this hotfix&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Content Creator&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/1chick" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/1chick.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;This month's featured content creatorors are 1chick and TheDrakma. They stream at 10pm EST nightly, excluding Monday and Friday.&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://curse.com/invite/qeyhP75FYEWkihyI1hgXUQ" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/joinUsOnCurse.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 08 Feb 2017 17:32:41 Z</pubDate>
+      <a10:updated>2017-02-08T17:32:41Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">2711</guid>
+      <link>https://www.feed-the-beast.com/news/2711-january-news-post</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>January News Post</title>
+      <description>&lt;div&gt;&lt;strong&gt;&lt;span&gt;Modpack News&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style="text-align:center"&gt;&lt;strong&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3" rel="nofollow"&gt;FTB Presents Skyfactory&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/skyfactory3.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;In collaboration with BaconDonut and Darkosto, we released Skyfactory 3 for minecraft 1.10.&lt;/div&gt;
+&lt;div&gt;Last month we wrote that a new pack, FTB Evolved, was being developed. The choice of name, a throwback to our 1.7 pack, was a bit controversial.&lt;/div&gt;
+&lt;div&gt;Back when we released the original FTB Infinity, we hoped to use it a flagship pack, a well known name we could keep across minecraft versions. The numerous changes in modded minecraft between 1.7 and 1.10 made the new packs too different to stick with the Infinity name. We tried keeping some connection to the old pack with the "Infinity Lite" and "Evolved" names, but after all the feedback we've decided to scrap the idea.&lt;/div&gt;
+&lt;div&gt;We're pleased to officially announce FTB Beyond. We're still working on it, fixing up some bugs and waiting for a few more mods to release, but we're hoping for a release in the next month or two.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;FTB One Community Applications&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;We've received a fantastic response to the call for applications to join our Content Creator Community. We're sifting through and sorting all the applications but it is going to take some time so please bear with us! We should be in a position to do a batch of invites in the next week or so.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span&gt;Content Creator&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.twitch.tv/weallplaycast" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/weallplaycast.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;This month's featured content creator is WeAllPlayCast. WeAllPlayCast consists of Rajacent and Hermyone. They dual stream weeknights at 8:30PM EST.&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://curse.com/invite/qeyhP75FYEWkihyI1hgXUQ" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/joinUsOnCurse.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 09 Jan 2017 18:29:54 Z</pubDate>
+      <a10:updated>2017-01-09T18:29:54Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">663</guid>
+      <link>https://www.feed-the-beast.com/news/663-december-news-post</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>December News Post</title>
+      <description>&lt;div&gt;&lt;span&gt;&lt;strong&gt;Modpack News&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;We're finally getting rolling on minecraft 1.10. After putting out &lt;a href="https://www.feed-the-beast.com/projects/ftb-presents-hermitpack" rel="nofollow"&gt;FTB Presents Hermitpack&lt;/a&gt;, we finally released our first flagship pack on a current Minecraft version in years.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div style="text-align:center"&gt;&lt;strong&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10" rel="nofollow"&gt;FTB Infinity Lite 1.10&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style="text-align:center"&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/infinityLite.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;In our continuing partnership with Direwolf20, we've released the latest iteration of his single player pack. You can follow along with his &lt;a href="https://www.youtube.com/watch?v=U1tOYvgpKKw&amp;list=PLaiPn4ewcbkGKTGBeUPqI-S3NeZ8tTSeX" rel="nofollow"&gt;series&lt;/a&gt; by downloading his world every ten episodes. Just click on the pack in the curse app, click maps and search for "direwolf20".&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div style="text-align:center"&gt;&lt;strong&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-10" rel="nofollow"&gt;FTB Presents Direwolf20 1.10&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style="text-align:center"&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-10" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/direwolf110.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Coming in the next few months is another, larger pack currently named FTB Evolved. After it is released, we will start work on an expert mode for this pack.&lt;/div&gt;
+&lt;div&gt;These new 1.10 packs are a bit more memory intensive than our 1.7 ones. We recommend using at least 4 GB to run them. You can do this in the options screen of the FTB launcher and under settings, Minecraft in the Curse app.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;strong&gt;Curse News&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;The plan for moving to the Curse app is unchanged. Curse is working on a few remaining features. Until they are done, the current FTB launcher will remain as normal.&lt;/div&gt;
+&lt;div&gt;Curse is still looking into bringing the app to linux, but it's a decent amount of work. We are banking on this happening, but if it does not, we remain committed to providing FTB packs on linux.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;strong&gt;Minecon&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;It's been awhile, but FTB was at Minecon. You can watch our panel &lt;a href="https://www.youtube.com/watch?v=XqSS-pdplTM" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;strong&gt;Minecraft 1.11&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;Minecraft 1.11 was released a few weeks ago. It's proving fairly easy for mods to update, but will still take a few weeks.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;strong&gt;Content Creator&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;In lieu of a streamer, this month's content creator is a mod author.&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://minecraft.curseforge.com/members/McJty/projects" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/McJty.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;McJty has been a pioneer in pushing modded Minecraft forward. He was one of the first to update to 1.10 and is leading the charge to 1.11.&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://curse.com/invite/qeyhP75FYEWkihyI1hgXUQ" rel="nofollow"&gt;&lt;img src="http://ftb.cursecdn.com/FTB2/static/newsletter/joinUsOnCurse.png" alt=""&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 05 Dec 2016 02:55:34 Z</pubDate>
+      <a10:updated>2016-12-05T02:55:34Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">173</guid>
+      <link>https://www.feed-the-beast.com/news/173-principles-in-design-of-ftb-modpacks</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>Principles in Design of FTB Modpacks​</title>
+      <description>&lt;div style="text-align:left"&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;This article is designed to give an overview of how FTB designs Minecraft mod packs. This will cover everything from planning to mod selection onto config changes through to beta testing and release.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Philosophy&lt;/strong&gt;&lt;br&gt;We are often asked what our goals are with FTB Modpacks, what is it that makes us choose one mod over another. Why was X mod included and Y mod excluded. From day 1 of FTB we have always strived to stay as neutral as possible when it comes to what mods we choose. Our primary goals are to respect the wishes of mod developers irrespective of any licences that may be attached to a mod (In other words if a mod developer wishes us not to use a mod, even though the license says that legally we can. Then where possible we will respect those wishes.) Equally we also strive to do our best to respect the wishes of Mojang and continually work to ensure we stay within the Minecraft EULA. Whilst this has not always been possible, it is something we work hard to try and achieve.&lt;br&gt;&lt;br&gt;Following on from that we work hard to provide our users the best possible experience we can within the limitations of both the game and any mods that we may use. From almost the beginning, FTB modpacks were played by an extremely wide player base of all ages. When designing our modpacks we do our best to ensure that our packs are accessible to as wide a base as possible. With packs like Infinity, our goal is to try to balance our packs around our mod choices and whilst we do make a small amount of changes to the mods in the packs, we aim to both keep the vanilla side of Minecraft as close as possible to the original experience we also try to keep the Modded side as close to the original author's vision as we can. We want our players to be able to go to the various wikis and websites and for the most part be able to get accurate information about the mods they are playing.&lt;br&gt;&lt;br&gt;With the introduction of Expert mode in 1.10 we have expanded on this to also provide a pack that offers a more expansive long term modpack where we try to encourage the use of more mods. We do this by changing the recipes for a large number of items that will encourage the building of infrastructure (both magical and tech based) However we don't want to see players have to build a complex machine for one task, so our goals are to to give the infrastructure multiple purposes so that you continue to use throughout the life of the world you play in.&lt;br&gt;&lt;strong&gt;&lt;br&gt;Planning&lt;/strong&gt;&lt;br&gt;Production of a new pack will first begin during meetings between Slowpoke and the principle modpack developers of FTB which at this moment in time include tfox83 (Lead Modpack Developer), SnowShock35 and Darkosto. During these meetings we will plan out what packs we want to create for the coming iteration of minecraft. We then work out a rough timeline for what order we want to release those packs and in what sort of time frame. So taking Minecraft 1.10 for example, we currently have firm plans in place for 6 packs with the potential for another 4 on top of that.&lt;br&gt;&lt;br&gt;Once that stage is complete, we start to take a close look at mod availability. During this period we will initially look to mods that we have experience with and see how updates are proceeding with that mod and gauge what sort of support we expect that mod to get through this iteration of Minecraft (Normally based on our experience with the mod developers working on the project) We also start the process of identifying what potential new mods we may be able to use in upcoming packs.&lt;br&gt;&lt;br&gt;Having put together an initial list of mods to work with, we then look to start a process of actual individual mod testing. Over the last couple of years, the way we approached this has changed dramatically and these days our highest priority when choosing mods has become mod stability. This means we take a close look at how that mod performs on a server, when used alongside other mods. We take a look at any end game items and how they made affect long term server stability. With the gaps between Minecraft updates taking longer, we now need to try to make players worlds last months instead of weeks where possible.&lt;br&gt;&lt;br&gt;In addition to stability, our mod choices for unstable are also based upon recommendations from either members of the FTB core team, The Stream Team, The beta team and also from general recommendations from other members of our community. These are normally mods that we feel have the potential to make it into one of our future packs.&lt;br&gt;&lt;br&gt;Having put together a list of the mods that we want to take a look at, we put together our initial pack for the iteration of Minecraft which is FTB Unstable. This pack is designed to achieve several goals. First it allows us to aid mod developers by allowing them to see how their mod performs in a modpack environment. We try to include as many mods as is practical in this pack and don't really spend a lot of time on either pack balance or ensuring that worlds do not get corrupted. The pack has a secondary goal of allowing us to take a closer look at some of the mods that we may want to include in our upcoming pack releases.&lt;br&gt;&lt;br&gt;Finally we start to take a closer look at mod configs, to identify any general config changes that may need to be made for future packs in order to facilitate the design of future packs. We also make our initial decisions with regards to world gen configs including areas like Ore Generation. We also plan out the custom menus that FTB use.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Pack Design&lt;/strong&gt;&lt;br&gt;During the period of the Unstable release we start to pencil in the mods that we want for our early packs. In the case of 1.10 and moving forwards our intention is to always release a version of Infinity as our first FTB pack (this excludes packs maintained by FTB for third parties such as Direwolf20 or Hermitcraft etc) During the 1.10 development phase in order to aid in the construction of the pack, we set a hard date for mods to be included within the release version of the pack. This allowed us a period of a month to thoroughly test the pack leading up to release.&lt;br&gt;&lt;br&gt;Once we have chosen the mods, the principle pack designer with make an initial pack, pulling all the mods together and doing a rough pass over the configs. This is designed to just make the pack playable for initial testing and may include any balance changes that have cropped up during Unstable testing.&lt;br&gt;&lt;br&gt;Once completed this pack will be passed to the beta testing teams. In normal circumstances beta testing will last anywhere from 2 weeks to 4 weeks depending on whether or not we foresee any potential issues that may crop up (for example, using a mod we have little experience of). After this a release candidate will be passed over to the teams for final testing. At this point any new artwork that may be required is commissioned and from 1.10 onwards we plan to include press packs for our packs which will include a full list of mods alongside high quality versions of artwork for use in things like overlays and thumbnails etc.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Beta Testing&lt;/strong&gt;&lt;br&gt;As of 1.7.10 we introduced a full beta team to FTB which as grown from less than 10 people initially to over 50 people today with plans to expand that further. Our beta testing is run in 2 stages. Behind the scenes we have a closed beta team that are given specific areas of a modpack to look at and report back to whoever the principle modpack developer for the pack is. In addition to that we have expanded the FTB Stream Team which contains YouTubers and Streamers who play through packs in a normal manner to look at general gameplay balance.&lt;br&gt;&lt;br&gt;During beta testing pack developers will start to refine the configs and make any potential balance changes that need to be made. In addition to this we also start to profile the servers looking for potential memory leaks and other stability issues.&lt;/div&gt;
+&lt;div style="text-align:left"&gt;&lt;strong&gt;&lt;br&gt;Modpack Overviews 1.10.x&lt;br&gt;&lt;span&gt;Mod pack ETA&amp;rsquo;s are dependant on mod availability/stability and subject to change.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;​&lt;/span&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;FTB Infinity Lite. (Release 04/11/2016)&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Recommended minimum 64bit java 8 with 4gb assigned to Minecraft for single player.&lt;br&gt;Recommended minimum server 4gb.&lt;br&gt;General modpack designed for use by a wide variety of players of all ages.&lt;/em&gt;&lt;br&gt;&lt;br&gt;FTB Infinity Lite will be our initial 1.10 modpack offering (excluding official FTB 3rd party packs like HermitPack). Infinity Lite will follow the same design principals as Infinity 1.7 mainly catering to a large player base with a mash of tech/magic content among other mods with no pre defined end game goal, leaving it in the player&amp;rsquo;s hands to decide progression. Based on the amount of content during the time of planning/development and the early stages of 1.10 mods, we decided to create a &amp;ldquo;Lite&amp;rdquo; version so we could get content to our player base in a timely manner.&lt;br&gt;&lt;br&gt;When planning packs like Infinity Lite we choose mods that will naturally fit into a pack with minimal config changes so a player can refer to the respected wiki for accurate information regarding the mod. Configs that we may decide to change are solely based on notable performance gains and preventing obvious cross-mod exploits. These major changes will be noted in the press pack. Other configs that we change are disabling ore generation from some mods so there isn't three different types of one ore in a world. If at anytime we find ourselves disabling major content from the mod to make it fit in the pack we will normally decide to pull the mod, since that&amp;rsquo;s not the way the developer of that mod designed it to be played. One of the hardest parts of planning packs like Infinity Lite, is which mods not to include, whether it be balance issues or even minor performance related issues.&lt;br&gt;&lt;strong&gt;&lt;br&gt;FTB Infinity Evolved (ETA - Q1 2017)&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Recommended Spec to follow.&lt;/em&gt;&lt;br&gt;&lt;em&gt;Expanded version of FTB Infinity lite, includes a greater variety of mods. Will provide a base for future game modes.&lt;/em&gt;&lt;br&gt;&lt;br&gt;FTB Infinity Evolved will be an expanded pack based off of Infinity Lite with more content and the return of game modes, which were introduced to Infinity (Evolved) in 1.7 approximately a year ago. Initial planning will be very similar to Infinity Lite with the main difference being mod selection based on future game modes. For example if we know that mod &amp;ldquo;a&amp;rdquo; cannot be adjusted in a way to work with a planned gamemode like &amp;ldquo;Expert Mode&amp;rdquo; we may decide not to include that mod thus preventing future problems that arise with expansion to the pack after release. This is a huge advantage that we have currently over the initial development of Infinity 1.7. Our goal is to release game modes as updates in the same way we did in Infinity (Evolved) 1.7 allowing players to simply update and continue in their current worlds if they choose to do so.&lt;br&gt;&lt;br&gt;Upon initial release Infinity Evolved will not contain any game modes. Expert Mode will be developed first, (For more information on Expert mode visit &lt;a href="https://forum.feed-the-beast.com/threads/ftb-infinity-hard-mode-behind-the-scenes-with-tfox83.117216/" rel="nofollow"&gt;https://forum.feed-the-beast.com/th...rd-mode-behind-the-scenes-with-tfox83.117216/&lt;/a&gt;) which when added to the pack 6-8 weeks (est.) after release that will introduce two game modes, Expert and Normal (Normal mode will be the default gamemode and will not introduce any changes). At this time we are discussing more game modes that may be introduced later in Infinity Evolved. &lt;br&gt;&lt;br&gt;&lt;strong&gt;FTB Infinity Skyblock (ETA Q2 2017)&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Recommended Spec to follow.&lt;/em&gt;&lt;/div&gt;
+&lt;p&gt;FTB Infinity Skyblock will be a spin off of FTB Infinity Evolved with a slightly modified mod list. The intention is to give players both the infinity and expert mode experiences in a skyblock environment with a whole new set of end game goals. Infinity Skyblock is designed with both a single player and multiplayer in mind with the ability to generate multiple islands on a server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br&gt;FTB Presents Sky Factory 3.0 (ETA Q1 - 2017)&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Recommended Spec to follow.&lt;/em&gt;&lt;br&gt;&lt;br&gt;More details to follow.&lt;/p&gt;</description>
+      <pubDate>Thu, 03 Nov 2016 21:16:33 Z</pubDate>
+      <a10:updated>2016-11-03T21:22:35Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">168</guid>
+      <link>https://www.feed-the-beast.com/news/168-twitch-enters-agreement-to-purchase-curse</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>Twitch enters agreement to purchase Curse</title>
+      <description>&lt;p&gt;As I am sure most people will have now seen, it was announced today that FTB partner Curse has entered into an agreement to be acquired by Twitch.TV. The FTB team is excited about the new possibilities that this will provide to our community. With regards to how this news will affect our partnership, for the near future everything will remain the same. Our plan is to sit down and talk to the appropriate people soon to talk about the partnership moving forwards. As soon as we have more news with regards to this we will release it....&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Aug 2016 23:56:13 Z</pubDate>
+      <a10:updated>2016-08-16T23:56:13Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">166</guid>
+      <link>https://www.feed-the-beast.com/news/166-ftb-launcher-news</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB Launcher News</title>
+      <description>&lt;p&gt;Two years ago FTB and Curse first came together to form a partnership. Since then both parties have worked together to create a new client designed for installing Minecraft mods and mod packs. A few months ago Curse released a new client on Microsoft Windows and recently have released this new client to OSX/macOS. Whilst there is still some way to go before we completely retire the FTB launcher. We have finally reached a position where we are happy to fully recommend the Curse app as the preferred method for downloading FTB mod packs on both Windows and Mac.&lt;br&gt; &lt;br&gt;Over the coming months new features will include the ability to download server packs from directly within the Curse app and also the ability to upload crash logs directly to FTB or the relevant pack designer. An API will also be added which will allow server hosting companies to directly access server side packs. Finally, work has started to test the viability of a Linux based client. The Curse dev team has a few Linux enthusiasts among them, so they're really excited about bringing the app to Linux.&lt;br&gt; &lt;br&gt;Our current plan is to have both the Curse app and the FTB launcher continue to co-exist over the next few months. This is to give Curse the time needed to add the last few remaining features required for feature parity, at which point the FTB launcher will be retired. Once our launcher is retired then we will debrand it and remove all existing download links from our websites and finish the process of moving all FTB mod packs and other related content over to the Curse app. We still plan to make a bare bones version of the launcher stripped of all branding and FTB content available for those packs that remain on the client and cannot move for one reason or another. We have yet to determine whether download links for this stripped down version of the launcher will be hosted, however it's likely that this will be left in the hands of the pack developers that remain on the old launcher.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Finally those who are about to use the Curse app for the first time . Curse have some basic video guides already on their youtube channel which can be found at &amp;nbsp;&lt;a href="https://www.youtube.com/playlist?list=PLm8BE-dVxqWjYO29zMWstb7WoFIb3zwgM" rel="nofollow" target="_blank"&gt;https://www.youtube.com/playlist?list=PLm8BE-dVxqWjYO29zMWstb7WoFIb3zwgM&lt;/a&gt; &amp;nbsp;and further guides will be made available in the coming days.&lt;br&gt; &lt;br&gt; We as a team sincerely hope that everyone enjoys using the Curse app as much as we do and whilst our focus will now move more and more into mod pack development, as a team we will continue to work with Curse to help them provide the best user experience possible for everyone.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 Jun 2016 15:54:34 Z</pubDate>
+      <a10:updated>2016-06-15T16:07:47Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">163</guid>
+      <link>https://www.feed-the-beast.com/news/163-ftb-newsletter-april-2016</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB Newsletter April 2016</title>
+      <description>&lt;p&gt;&lt;strong&gt;FTB Infinity Evolved Skyblock Released&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;&lt;img src="https://i.imgur.com/xgBZwXo.png" alt="" width="860" height="645"&gt;&amp;nbsp;​&lt;/div&gt;
+&lt;p&gt;April 1st marks the official release of Infinity Evolved Skyblock. The wait is finally over! Do you have what it takes to tackle the challenges of Infinity Evolved Skyblock? This time around there is no easy mode, only the expert mode. New challenges, and the additions of trophies await you in this long awaited skyblock modpack from FTB.&lt;br&gt;&lt;br&gt;FTB Infinity Evolved Skyblock is a modpack designed to provide an extra challenge for any experienced Minecrafter. Work your way through new recipes, twisted game mechanics, and collect the rare and mysterious trophies! Warning, may consume a vast amount of your time.&lt;br&gt;&lt;br&gt;Be sure to grab your copy today on the Curse App or the FTB Launcher.&lt;br&gt;Both are available at &lt;a href="http://www.feed-the-beast.com/" rel="nofollow"&gt;www.feed-the-beast.com&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;STAFF CHANGES&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Gideonseymour has retired from the FTB Team, and we wish him the best in all his future endeavours.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;MODPACK OF THE MONTH&lt;/strong&gt;&lt;br&gt;&lt;br&gt;This month's feature modpack is TerraFirmaPunk. Explore the ancient ruins of a long dead civilization and learn to master the Power of Steam while surviving starvation, dehydration, deadly cavins, dangerous mobs, zombie hoards, and evil boss monsters waiting around every corner.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;&lt;img src="http://i.imgur.com/wt0KIlE.png" alt="" width="860" height="409"&gt;&amp;nbsp;​&lt;/div&gt;
+&lt;p&gt;Be sure to check out the full version &lt;br&gt;&lt;br&gt;&lt;a href="http://forum.feed-the-beast.com/threads/1-7-10-terrafirmapunk-terrafirmacraft-steampunk.53519/" rel="nofollow"&gt;http://forum.feed-the-beast.com/threads/1-7-10-terrafirmapunk-terrafirmacraft-steampunk.53519/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;FEATURED CONTENT CREATOR&lt;/strong&gt;&lt;br&gt;&lt;br&gt;This month we would like to feature one of our own FTB Stream Team members Pulpjohnfiction!&lt;br&gt;This UK streamer has one of the best raid games on Twitch, Play your funks right. And certainly worth checking out and a follow.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;&lt;img src="https://static-cdn.jtvnw.net/jtv_user_pictures/pulpjohnfiction-profile_banner-a7d00ca62bf20eb4-480.jpeg" alt="" width="860" height="287"&gt;&amp;nbsp;​&lt;/div&gt;
+&lt;p&gt;Make sure to follow him on Twitch: &lt;a href="http://twitch.tv/pulpjohnfiction" rel="nofollow"&gt;http://twitch.tv/pulpjohnfiction&lt;/a&gt;&lt;br&gt;And on Twitter: &lt;a href="https://twitter.com/pulpjohnfiction" rel="nofollow"&gt;https://twitter.com/pulpjohnfiction&lt;/a&gt;&lt;br&gt;&lt;br&gt;Like to register as an official FTB Content creator?&lt;br&gt;Fill out this form and let us know!&lt;br&gt;&lt;a href="https://docs.google.com/forms/d/1nTryMDmWBO7fncN-HJYFMvRtoDveBUPCl0e7LCNQjhU/viewform" rel="nofollow"&gt;Click Here to Submit an Application&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 05 Apr 2016 16:10:08 Z</pubDate>
+      <a10:updated>2016-04-05T16:13:00Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">161</guid>
+      <link>https://www.feed-the-beast.com/news/161-ftb-newsletter-march-2016</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB Newsletter March 2016</title>
+      <description>&lt;h1&gt;&lt;span style="font-weight:400"&gt;FTB Stream Team grows, and Infinity Evolved Skyblock Development.&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;FTB Stream Team grows to over 45 members&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;The FTB one community is soaring to new heights! With new Infinity Evolved Skyblock being tested for your enjoyment, we decided to select different streamers to showcase what we have in store. We give you the FTB Stream Team! With over 45 streamers and Youtubers, you can see the many successes (and epic failures) of the latest FTB packs. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;To see them live visit: &lt;/span&gt;&lt;a href="http://www.twitch.tv/team/ftb" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;http://www.twitch.tv/team/ftb&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;Over $1000 Raised in relief efforts during our livestream charity event&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;This month, the FTB team raised $1,102.00 for charity during our livestream charity event. Money from this stream will be sent to support relief efforts in Ethiopia, where the money will be used to help mitigate the effects of the current category one drought. Thank you to everyone who participated and helped by either being present or by donating.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gamingforgood.net/s/officialfeedthebeast#donate" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://www.gamingforgood.net/s/officialfeedthebeast#donate&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;PAX South Recap&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;We had an excellent turnout for the modded panel at Pax South, with Sacheverell as panel moderator and panelists Slowpoke, Direwolf20, Quetzi, Bacon Donut, and Lex Manos, the panel was both entertaining and informative.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Special thanks to Fireball1725 for recording the panel and you can see it in its entirety on her youtube channel.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Gi15-95Cow8" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://www.youtube.com/watch?v=Gi15-95Cow8&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;Mod Pack News&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;FTB has been hard at work testing and tweaking a new version of Infinity Evolved Skyblock. &amp;nbsp;With both our Stream Team and Beta Team working on the project we hope to have this out to the public as soon as possible.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;For the latest news and developments check out anyone from the FTB Stream Team for live media coverage and follow @FTB_Team on twitter for all the latest news and updates.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.twitch.tv/team/ftb" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://www.twitch.tv/team/ftb&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/ftb_team" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://twitter.com/ftb_team&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;3rd Party Pack News&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;This month's feature pack is The Ferret Business. &amp;nbsp;A unique take on an HQM pack, with a complete light hearted story line to guide you in your journey.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-weight:400"&gt;It's a fairly large pack, chock full of magic, technology, and nature. It is the sequel to a private modpack I created and maintained during 1.6.4 for a few small communities, but instead of just updating that, I decided to go the next step, making a public modpack for everyone to enjoy. But not just any normal modpack...each section can explain better.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://forum.feed-the-beast.com/threads/1-7-10-the-ferret-business-wip-hqm-475-quests-v-0-1-2.64930/" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;http://forum.feed-the-beast.com/threads/1-7-10-the-ferret-business-wip-hqm-475-quests-v-0-1-2.64930/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;Content Creator Spotlight&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;This month&amp;rsquo;s feature content creator is one of our newest members to the FTB Stream Steam - Kryllyk. &amp;nbsp;Beyond the normal livestreams on Twitch, he has been doing an active Youtube series on Infinity Evolved Skyblock from the FTB One server.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vbdomOrON4o" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://www.youtube.com/watch?v=vbdomOrON4o&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Be sure to follow on Twitch and Twitter, and subscribe on Youtube.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/user/Kryllyk" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://www.youtube.com/user/Kryllyk&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/kryllyk" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;https://twitter.com/kryllyk&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.twitch.tv/kryllyk" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;http://www.twitch.tv/kryllyk&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Like to register as an official FTB Content creator?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Fill out this form and let us know!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/1nTryMDmWBO7fncN-HJYFMvRtoDveBUPCl0e7LCNQjhU/viewform" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;Content Creator Application&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-weight:400"&gt;Build Competition Winner&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;After Reviewing all the submissions this month we have chosen this incredible space station build.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Created by Ivan (@DinckelMan) in FTB Infinity&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;That is simply the outside. &amp;nbsp;You can check out the full glory of this build at planet minecraft &amp;nbsp;&lt;/span&gt;&lt;a href="http://www.planetminecraft.com/project/space-station-v2/" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;http://www.planetminecraft.com/project/space-station-v2/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;For winning this month&amp;rsquo;s competition Ivan will receive a custom FTB badge that will display ingame on his character whenever &lt;/span&gt;&lt;a href="http://mods.curse.com/mc-mods/minecraft/237102-ftb-utilities" rel="nofollow"&gt;&lt;span style="font-weight:400"&gt;FTB Utilities&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight:400"&gt; is present. Congratulations!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;The competition will run each month with a winner selected at the end of each month. &amp;nbsp;To get your submissions in, simply tweet out a picture or a video of your build to #ftbbuilds &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;Enter today for your chance to win!&lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 07 Mar 2016 20:01:20 Z</pubDate>
+      <a10:updated>2016-03-07T20:01:20Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">159</guid>
+      <link>https://www.feed-the-beast.com/news/159-ftb-newsletter-january-2016</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB Newsletter January 2016</title>
+      <description>&lt;p&gt;Welcome to the Official FTB Newsletter. In today's issue, we have information about two new FTB team members, our upcoming event at PAX South, and some details about FTB and third-party packs. We'd also like to spotlight two mods as well as some new Youtube content featuring the Unstable pack. Finally, we're announcing the new FTB Build Competition.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div style="text-align:center"&gt;&lt;a href="http://ftb.cursecdn.com/FTB2/NewsLetterJan2016.htm" rel="nofollow"&gt;&lt;strong&gt;Click here to view the full newsletter&lt;/strong&gt;​&lt;/a&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 25 Jan 2016 21:30:03 Z</pubDate>
+      <a10:updated>2016-01-25T21:30:03Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">156</guid>
+      <link>https://www.feed-the-beast.com/news/156-final-release-of-infinity-evolved-and-1-8-9</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>Final Release of Infinity Evolved and 1.8.9 Development</title>
+      <description>&lt;p&gt;&lt;span style="font-weight:400"&gt;Greetings and welcome to the new FTB Newsletter! This issue will only be a brief overview of some pertinent material, but over the next few weeks, we will begin to publish a more formal newsletter. This will be a streamlined way for us to deliver important FTB news and information such as update announcements, community events, and various other things that may be of interest to you.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;FTB Infinity Evolved version 2.3.5 - This will be the final major update for the pack except for any minor bug fixes that may eventually become necessary.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;FTB Unstable version 3.x.x - This exciting, new modpack is being used as a testing platform for exploring modding in future 1.8.9 packs. As such, users should be aware that support for this pack will be very limited. Updates will be occurring almost on a daily basis, and worlds may occasionally need to be reset as new content becomes available.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;In summary, you can expect to see a more formal newsletter keeping you up-to-date on important FTB related information. For now, just be aware that FTB Infinity Evolved is finalized and will be receiving no more new updates, and FTB Unstable is a cutting edge pack for testing mods in a 1.8.9 environment that will be updated almost every day, but as such, it will provide little to no tech support, and your world may need to be reset on occasion. That being said, 2016 is going to be an exciting year for the FTB Team, and we can&amp;rsquo;t wait to share it with you!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;em&gt;&lt;span style="font-weight:400"&gt;Due to inherent instabilities in the current developer version of Tinkers Construct in the FTB Unstable pack, we have made the decision to remove the mod until an update is released. We apologise for any inconveniences this may cause; however, as stated with the Unstable pack, situations like this do crop up from time to time. Tinkers Construct will return to Unstable in the near future.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 18 Jan 2016 19:08:50 Z</pubDate>
+      <a10:updated>2016-01-18T19:08:50Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">155</guid>
+      <link>https://www.feed-the-beast.com/news/155-ftb-news-dec-28th-2015</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB News | Dec 28th 2015</title>
+      <description>&lt;p&gt;First and foremost, Happy Holidays from the FTB Team!&lt;br&gt;&lt;br&gt;Infinity Evolved 2.3.0 Beta is now live! &lt;a href="http://www.feed-the-beast.com/projects/ftb-infinity-evolved/files/2272692" rel="nofollow"&gt;Changelogs &amp;amp; Server Files&lt;/a&gt;&lt;br&gt;&lt;br&gt;FTB Presents Direwolf20 1.10.0 Beta is now live! &lt;a href="http://www.feed-the-beast.com/projects/ftb-presents-direwolf20/files/2272690" rel="nofollow"&gt;Changelogs &amp;amp; Server Files&lt;/a&gt;&lt;br&gt;&lt;br&gt;As of this time we are locking all 1.7.10 modpacks with the exception of Infinity Evolved. We will push hotfixes for major crashes or major mod updates as we see needed for the locked 1.7.10 packs if they arise. With the majority of the community actively updating their content to 1.8.x initial work has begun on new FTB modpacks. As soon as we have enough stable content for 1.8.x we will begin the process of building and testing our first set of modpacks.&lt;br&gt;&lt;br&gt;As of this time we plan to have Infinity 1.8 be one of our first modpacks in 1.8.x, and we already have plans to expand on the hugely successful &amp;ldquo;Expert Mode&amp;rdquo; within a couple months of the initial public release of Infinity 1.8.&lt;br&gt;&lt;br&gt;-FTB Team&lt;/p&gt;</description>
+      <pubDate>Mon, 28 Dec 2015 21:14:17 Z</pubDate>
+      <a10:updated>2015-12-28T21:14:17Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">148</guid>
+      <link>https://www.feed-the-beast.com/news/148-ftb-news-nov-7th-2015-ftb-page-on-curse-pack</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB News Nov 7th 2015 | FTB Page on Curse | Pack Updates | Third Party Packs</title>
+      <description>&lt;p&gt;This week the FTB page came to Curse Voice alpha. A one stop place where you can get all of your FTB news, links to all the FTB sites, directly from the client. We are very excited to have these new options available to all Curse Voice users. This should appear on beta mid next week.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh5.googleusercontent.com/Y3cvnNpN1RTdNzc1i-hGXrbYpXMlJS_6tDHHpQstQsyenNdngwGI9oFgpkBxGO4jutfMFZDtN0Vm1aNx5a1zKiFC1IY77NbZF-xqr3qICDcp0i3unhcpVfF5UicKxBf90CD0OQ1r" alt="" width="639" height="632"&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;First Week of Infinity Evolved &lt;/strong&gt;&lt;br&gt;Today it has been one week since the release of FTB Infinity Evolved. We have seen some great builds and have had some great feedback on the new mods and pack modes. So how have you been doing in the pack? We love to see all of your builds and progress! Tweet @FTB_team with your progress.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Pack updates:&lt;/strong&gt;&lt;br&gt;Today there were also updates to Cloud9, Vanilla+, Lite 3 and Direwolf20. These updates are public beta and will be moved to release if no major bugs are found in a week. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Default Third Party Packs:&lt;/strong&gt;&lt;br&gt;&lt;a href="http://forum.feed-the-beast.com/threads/1-7-10-hqm-survival-galactic-science-something-fresh.86203/" rel="nofollow"&gt;Galactic Science&lt;/a&gt; has been added as a new default pack under the third party tab on the launcher.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;
+&amp;lt;aside&amp;gt;
+&lt;blockquote&gt;
+&lt;div&gt;The nuclear dawn is here. Large powers around the world launched their nuclear arsenals, making the earth a place without future for mankind.&lt;br&gt;&lt;br&gt;&lt;br&gt;Luckily you have a chance to survive this. Due to the space projects of your uncle Richard you happen to have a space rocket in your backyard and the coordinates of the outpost base on moon.&lt;/div&gt;
+&lt;/blockquote&gt;
+&amp;lt;/aside&amp;gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;To keep the content on the launcher fresh, we're going to be featuring a new pack once a month. In conjunction we will also retire older packs at the same time. We want to keep the list fairly short so you don't have to scroll to get to your custom packs. This month we've got a bit of catching up to do, so all the following packs will be moved to the adjacent codes.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pathfinder : toboldlygo&lt;/li&gt;
+&lt;li&gt;Blast Off! : BlastOff&lt;/li&gt;
+&lt;li&gt;Material Energy^4 : ME4&lt;/li&gt;
+&lt;li&gt;TolkienCraft II : tolkienadv2&lt;/li&gt;
+&lt;li&gt;Running Red 2: Vampire Money : vampire&lt;/li&gt;
+&lt;li&gt;The Dark Trilogy : darktrilogy&lt;/li&gt;
+&lt;li&gt;Material Energy^3 : ME3&lt;/li&gt;
+&lt;li&gt;Test Pack Please Ignore : MegaSharkPunch&lt;/li&gt;
+&lt;li&gt;Running Red : blood&lt;/li&gt;
+&lt;li&gt;EPiCCRAFT : 5543211&lt;/li&gt;
+&lt;li&gt;BloodNBones : bloodnbones&lt;/li&gt;
+&lt;li&gt;Magic Farm 2:Adventures in Technology : magicfarm2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;If you are playing one of these packs, the launcher will automatically add the code for you.&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2015 01:08:00 Z</pubDate>
+      <a10:updated>2015-11-08T01:08:51Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">143</guid>
+      <link>https://www.feed-the-beast.com/news/143-announcing-ftb-infinity-evolved-ftb-tweaks-and-ftb</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>Announcing FTB Infinity Evolved, FTB Tweaks, and FTB Utilities.</title>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/mLvAC7T.png" alt="" width="550" height="550"&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is FTB Infinity Evolved?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;FTB Infinity Evolved is our first evolution of bringing a whole new way of playing our mod packs. Your normal FTB Infinity worlds will remain exactly how they are now, however a simple command entered by you on a single player world or your admin on a multi-player server will introduce a huge change to the recipes of the various items. Our goal here is to create a pack that will extend your gameplay without introducing massive amounts of grind. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How do we do this?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;We have taken a long hard look at the items that all the mods introduce to FTB Infinity and look at their relative strengths. In the tech tree, we have locked the most powerful items (Like Applied Energistics sorting systems) behind gates unlocked by progressing through other mods. On top of this, we have changed up the recipes of a lot of your favorite items by bringing in ingredients from other mods. For example the Basic Machine Frame needed for most Thermal Expansion machines requires parts built with Tinkers Construct, Forestry, Buildcraft, and Railcraft.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;&lt;img src="http://i.imgur.com/fcwnxI5.png" alt="" width="300" height="283"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;So our goal here is not to force you to grind, it is more to encourage people to build more infrastructure just like the FTB Maps of old. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;So lots of more complex recipes, is that it?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;No! On top of this we are introducing 2 new custom made mods into FTB Infinity, FTB Tweaks and FTB Utilities.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align:left"&gt;&lt;span style="font-weight:400"&gt;&lt;img src="http://i.imgur.com/jYDAMDZ.png" alt="" width="300" height="300"&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;img src="http://i.imgur.com/SkVxmxb.png" alt="" width="300" height="300"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:left"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;FTB Tweaks is a very simple mod that introduces the concept of game modes. This allows you to set up multiple minetweaker profiles and switch between them on the fly, giving the ability to switch game modes without a server restart.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;FTB Utilities adds a ton of new awesome features, all nested within a easy to use in game GUI.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Guide system - Introduces a very basic way to write game guides that can be used in game. These can be written offline in plain text and imported into your client. This will allow anyone to write guides that can be used in game as tutorials etc.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;&lt;img src="http://i.imgur.com/hSpiT7R.png" alt="" width="600" height="337"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Friends system - Self explanatory, it's an in game friends system that is used for various other features&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Chunk Claiming - &amp;nbsp;Players will now be able to claim chunks preventing anyone but themselves and/or their friends from building or breaking blocks in that chunk. This is limited via config options.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;&lt;img src="http://i.imgur.com/j0ll97M.png" alt="" width="600" height="338"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Backup system - Backup your worlds on a regular basis.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Auto-restart timer - One of the best ways to maintain your server is regular restarts, this allows admins to automate the process.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;World &amp;nbsp;borders. Allows admins to effectively limit the size of any worlds with a 1.8 minecraft like border. Borders can have custom position (default to 0,0) and size per-dimension&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;&lt;img src="http://i.imgur.com/WCMFnti.png" alt="" width="600" height="338"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Inventory viewer - This command will allow admins to access any player's inventory at any time online and easily add or remove items. Supports Baubles. (Personal note, this command is amazing)&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Warps (/setwarp [ID], /warp [ID]) - Players can teleport to any location/dimension set by server admins&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Config reloading with &amp;ldquo;/admin reload&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;FriendsGUI where you can see misc stats of users - Total play time, deaths, first time joined, last time seen etc.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;&lt;img src="http://i.imgur.com/kxzxHmU.png" alt="" width="600" height="338"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Safe spawn from mobs / Spawn PVP - Hostile mobs in spawn area won&amp;rsquo;t spawn and won&amp;rsquo;t be able to attack you. SpawnPVP blocks other players from attacking you.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;MOTD &amp;amp; rules link on player login - Self Explanatory&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Starting items - Want your players to have a set of tools or items when they first join the server, (Items are set in server config, in format &amp;ldquo;minecraft:item_id size damage&amp;rdquo;)&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Chat links - When someone posts a link in chat and it&amp;rsquo;s not clickable, FTBU prints &amp;ldquo;[Link]&amp;rdquo; that you can click from chat window.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Json configs (Can be edited with &amp;ldquo;/admin config&amp;rdquo;)&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;/math&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Badges - Now you can make and add custom badges to players that are playing on your server.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Coming Soon...&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Powerful new chunk loading system - Adding controlled chunk loading to the chunk claiming system.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Player Ranking System - Adds a ranking system that will allow server admins to give players and groups different permissions (allowing admins to create groups where they can give different groups/players access to all the different commands in the game / have different claim limits)&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Offline Messaging - &amp;nbsp;Leave a message for offline players, that they will receive when they next log in. You can also send items to players using this method. &lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;Trading system - Adds a GUI into the friends system where you can create requests for items you need and what items they are willing to give in exchange.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;The ability to reset your spawn using a bed at any time.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="font-weight:400"&gt;&lt;span style="font-weight:400"&gt;All server commands will be moved into a GUI based system.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;To summarise, this pack isn&amp;rsquo;t just about forcing people to use Industrial Craft 2 or give people a long grindy style mod pack. Our goal is more to add a new dimension to the gameplay of not just FTB Infinity, but also other mod packs in the future. We also want to be able to help provide everyone these tools to do the same thing to all of your awesome mod packs. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400"&gt;We are all very excited about the new Hard mode in Infinity and we can't wait for you to all get a chance to take a proper look at it. Long term, we are already making plans to expand on these idea even further so we can continue to bring the community fantastic mod packs in 2016 and onwards. &lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Sat, 17 Oct 2015 22:46:27 Z</pubDate>
+      <a10:updated>2015-10-17T22:46:27Z</a10:updated>
+    </item>
+    <item author="FTB">
+      <guid isPermaLink="false">131</guid>
+      <link>https://www.feed-the-beast.com/news/131-ftb-news-3-oct-2015</link>
+      <a10:author>
+        <a10:name>FTB</a10:name>
+        <a10:uri>http://www.feed-the-beast.com/members/FTB</a10:uri>
+      </a10:author>
+      <title>FTB News - 3 Oct 2015</title>
+      <description>&lt;p&gt;&lt;strong&gt;FTB One Infinity Hard Mode:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The FTB One Infinity Hard Mode celebrations continue through this weekend! Like the previous five days, we&amp;rsquo;ll be linking to streams and recorded videos created by some of the players on FTB One. If you&amp;rsquo;re interested in getting a good sneak peak at Infinity 2.0.0. before it&amp;rsquo;s release later this fall, be sure to follow us on &lt;a href="https://twitter.com/FTB_Team" rel="nofollow"&gt;Twitter&lt;/a&gt; for the latest broadcasts.&lt;br&gt;&lt;br&gt;&lt;br&gt;For the full player list, as well as a full description of the event, click &lt;a href="http://forum.feed-the-beast.com/threads/ftb-one-infinity-hard-mode-week.122605/#post-1451796" rel="nofollow"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;FTB Trials &amp;ndash; Episode 1 Submissions Closed:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Just a reminder that October 1st was the entry deadline for the Trials online tournament! Over the next few days, we&amp;rsquo;ll be reviewing the entries and posting up the final results.&lt;br&gt;&lt;br&gt;&lt;br&gt;Stay tuned!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;New Listed Pack : Banished&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;We&amp;rsquo;re also happy to announce that we&amp;rsquo;ve added another listed pack to our Third Party tab on our launcher. Please welcome DrasticDemise&amp;rsquo;s Banished, everyone!&lt;br&gt;&lt;br&gt;&lt;br&gt;Banished is a magic-themed, HQM-powered, dark fantasy modpack. As you explore a twisting world of infinite caverns and all-consuming darkness, players can build up resources and increase their chance of survival with powerful tools and weapons. The pack also features a robust progression tree with a strong Aura Cascade backbone and core gameplay mechanics tied to HQM&amp;rsquo;s Reputation system.&lt;br&gt;&lt;br&gt;&lt;br&gt;Banished is currently listed on the FTB Launcher in the Third Party tab as well as on Curse Voice. You can learn more about Banished in DrasticDemise&amp;rsquo;s forum topic &lt;a href="http://forum.feed-the-beast.com/threads/1-7-10-banished-v-1-2-4-magic-cave-world-hqm-combat-survival.99506/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;New Staff, New Website, and More&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;We&amp;rsquo;ve got some additional exciting news: our family is growing and things are changing! Here's a quick word from FTB Founder slowpoke101:&lt;br&gt;&lt;br&gt;&lt;br&gt;I am happy to announce that Rajecent from the Weallplaycast team has join the FTB Team taking on the role of Community Manager. Raj is going to be working with myself and the rest of the Core Team to continue to develop our upcoming Content Creator Program as well as various other responsibilities. Raj brings a lot of awesome qualities with him including his experience and knowledge of both the Youtube and Streamer communities along with his personal background which will help us as we move forwards over the next 12 months as we begin the preparations to move all of the FTB Packs over to the Curse Client and start the process of retiring the FTB Launcher.&lt;br&gt;&lt;br&gt;&lt;br&gt;This leads me nicely into the new front page at &lt;a href="http://www.feed-the-beast.com/" rel="nofollow"&gt;www.feed-the-beast.com&lt;/a&gt;. Originally our plan was to move the forums over to a new web domain over on the Curse site, however our plan now is to keep the website at&lt;a href="http://www.feed-the-beast.com/" rel="nofollow"&gt;www.feed-the-beast.com&lt;/a&gt;. We have now moved over to the new front page that begins the process of integrating our forums over on to the Curse backend. Whilst there will be a few teething troubles at the beginning, this move is going to provide us with access to new tools and will evolve over the coming 12 months. We still plan to move over to new forum software in the future, however we still need to make sure that before we move the new software is going to be of an acceptable standard before making the move. There is no current ETA for this move and we will release more details as we have them.&lt;br&gt;&lt;br&gt;&lt;br&gt;Finally for those of you that haven't had a chance to try it, you can now download the latest version of the Curse Voice client, directly from the front page. Whilst there are still a few features missing such as an offline mode and server files, the reports we have had back from the members of the community that have used the Client are mostly favorable with a lot of people recording noticeable increases in performance of Minecraft over the FTB launcher.&lt;br&gt;&lt;br&gt;&lt;br&gt;We are still not quite ready to have the Curse Voice client be our recommended method of installation for any of the operating systems, however Windows is starting to get very close now and Mac should not be too far behind. For those that missed the Town Hall Q&amp;amp;A with Kaelten from Curse, with regards to Linux, a possible solution has been found and is being looked at, however it is still a bit too early to confirm what the actual method will be for the distribution of modpacks on Linux at this moment, again we will keep everyone updated as we get any new information.&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2015 19:00:09 Z</pubDate>
+      <a10:updated>2015-10-17T03:07:59Z</a10:updated>
+    </item>
+  </channel>
+</rss>
