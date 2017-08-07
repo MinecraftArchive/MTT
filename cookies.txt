@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.feed-the-beast.com	TRUE	/	FALSE	1999999999	__cfduid	db38e2336bbe00d5574d32eb64662e66f1502060032
+.cursecdn.com	TRUE	/	FALSE	1999999999	__cfduid	dc003313c2eccf5d57f4f47b0f690b4671502060033
+.google.com	TRUE	/	FALSE	1999999999	NID	109=C1IlO5eg9fgZxc7EJNZK7UEgeHqnOjR8XOeDBtif7baTZANOUzTjXsbGQ6U2zaACCLl028-wd5RY34Elk4noFFVeiBJlXpSK_EtrNIbf9pHvDLTz-fLwVCQeAhEVraah
+.feed-the-beast.com	TRUE	/	FALSE	1999999999	Login.RedirectUrl	https://www.feed-the-beast.com/
+

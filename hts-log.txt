@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 06 Aug 2017 18:53:24 at https://www.feed-the-beast.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.feed-the-beast.com/ -O1 "C:\My Web Sites\MagiTech Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:58:16	Error: 	"Not Found" (404) at link static-elerium.cursecdn.com/1-0-6425-15406/Skins/images/markitup/menu.png (from static-elerium.cursecdn.com/1-0-6425-15406/Skins/Blocks/css/compiled.css)
+18:58:16	Error: 	"Not Found" (404) at link static-elerium.cursecdn.com/1-0-6425-15406/Skins/images/markitup/submenu.png (from static-elerium.cursecdn.com/1-0-6425-15406/Skins/Blocks/css/compiled.css)
+18:59:07	Warning: 	Found for https://www.feed-the-beast.com/modpacks/?filter-server-packs=y
+18:59:07	Warning: 	File has moved from https://www.feed-the-beast.com/modpacks/?filter-server-packs=y to /modpacks?filter-server-packs=y
+19:03:36	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinity-3.0.1-1.7.10.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved)
+19:04:31	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinity-3.0.0-1.7.10.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved)
+19:04:31	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityServer_3.0.1.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved)
+19:04:32	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityServer_3.0.0.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved)
+19:08:09	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsDirewolf20110-1.12.1-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-10)
+19:08:13	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsDirewolf20110-1.13.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-10)
+19:08:13	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsDirewolf20110Server_1.12.1.zip (from https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-10)
+19:08:32	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsDirewolf20110Server_1.13.0.zip (from https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-10)
+19:10:37	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsSkyfactory3-3.0.13-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3)
+19:11:20	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsSkyfactory3-3.0.12-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3)
+19:11:20	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsSkyfactory3Server_3.0.13.zip (from https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3)
+19:12:03	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsSkyfactory3Server_3.0.12.zip (from https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3)
+19:13:40	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBUnstable112-1.0.7-1.12.zip (from https://www.feed-the-beast.com/projects/ftb-unstable-1-12)
+19:14:04	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBUnstable112-1.0.6-1.12.zip (from https://www.feed-the-beast.com/projects/ftb-unstable-1-12)
+19:14:29	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBBeyond-1.10.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-beyond)
+19:15:27	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBBeyond-1.9.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-beyond)
+19:15:27	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBBeyondServer_1.10.0.zip (from https://www.feed-the-beast.com/projects/ftb-beyond)
+19:16:06	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBBeyondServer_1.9.0.zip (from https://www.feed-the-beast.com/projects/ftb-beyond)
+19:17:30	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/SkyFactoryChallenges-1.1.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-skyfactory-challenges)
+19:17:59	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/SkyFactoryChallenges-1.0.1-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-skyfactory-challenges)
+19:17:59	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/SkyFactoryChallengesServer_1.1.0.zip (from https://www.feed-the-beast.com/projects/ftb-skyfactory-challenges)
+19:18:24	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/SkyFactoryChallengesServer_1.0.1.zip (from https://www.feed-the-beast.com/projects/ftb-skyfactory-challenges)
+19:19:20	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityLite110-1.8.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10)
+19:19:45	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityLite110-1.7.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10)
+19:19:45	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityLite110Server_1.8.0.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10)
+19:20:07	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityLite110Server_1.7.0.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10)
+19:21:22	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsHermitPack-1.7.0-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-presents-hermitpack)
+19:21:47	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsHermitPack-1.6.1-1.10.2.zip (from https://www.feed-the-beast.com/projects/ftb-presents-hermitpack)
+19:21:47	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsHermitPackServer_1.7.0.zip (from https://www.feed-the-beast.com/projects/ftb-presents-hermitpack)
+19:22:26	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBPresentsHermitPackServer_1.6.1.zip (from https://www.feed-the-beast.com/projects/ftb-presents-hermitpack)
+19:23:36	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityEvolvedSkyblock-2.0.1-1.7.10.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock)
+19:24:06	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityEvolvedSkyblock-2.0.0-1.7.10.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock)
+19:24:06	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityEvolvedSkyblockServer_2.0.1.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock)
+19:24:08	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/projects/FTBInfinityEvolvedSkyblockServer_2.0.0.zip (from https://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock)
+19:24:47	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/proxy.php?link=https%3A%2F%2Fredd.it%2F5yj9fg&hash=77dac3f1faa8581823242c05e7f5d87a (from https://www.feed-the-beast.com/news)
+19:24:47	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/proxy.php?link=https%3A%2F%2Fwww.reddit.com%2Fr%2Ffeedthebeast%2Fcomments%2F5zg7ua%2Fftb_beyond_townhall%2Fdeyrgvb%2F%3Fcontext%3D3&hash=447e19321bd504e179562a2d673f1c95 (from https://www.feed-the-beast.com/news)
+19:24:47	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/proxy.php?link=https%3A%2F%2Ftwitter.com%2Felucentmods%2Fstatus%2F842048583696281601&hash=39920fe93bffa46733260db6dd03ae46 (from https://www.feed-the-beast.com/news)
+19:24:47	Error: 	"Not Found" (404) at link https://www.feed-the-beast.com/proxy.php?link=https%3A%2F%2Fwww.twitch.tv%2Fvideos%2F129115341&hash=f3206569c6b1a7f88a5802a47732e20a (from https://www.feed-the-beast.com/news)
+19:24:48	Error: 	"Not Found" (404) at link https://static-cdn.jtvnw.net/jtv_user_pictures/pulpjohnfiction-profile_banner-a7d00ca62bf20eb4-480.jpeg (from https://www.feed-the-beast.com/news)
+19:29:27	Error: 	Exit requested by shell or user
+19:29:27	Error: 	"" (-1) at link https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-2-5/relations/dependencies (from https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-2-5)
+19:29:27	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 minutes 3 seconds : 2040 links scanned, 1841 files written (139349684 bytes overall) [79994311 bytes received at 36983 bytes/sec], 76780324 bytes transferred using HTTP compression in 1303 files, ratio 14%, 41.4 requests per connection
+(44 errors, 2 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
